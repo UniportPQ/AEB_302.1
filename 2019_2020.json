@@ -1,0 +1,2587 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Protochordates and chordates",
+    "code": "AEB 302.1",
+    "session": "2019/2020",
+    "topics": ["Birds", "Physiology", "Evolution", "Biodiversity", "Nigeria", "Definitions", "Anatomy", "Circulatory System", "Skeleton", "Reproduction", "Taxonomy", "Paleontology", "Adaptation", "History", "Ecology", "Behavior", "Feathers", "Functions", "Beak", "Communication", "Digestive System", "Excretory System", "Egg", "Development", "Fishes", "Aquaculture", "Respiration", "Amphibians", "Reptiles", "Locomotion", "Thermoregulation"],
+    
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Birds"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Birds", "Physiology"],
+    "Question": {
+      "content": "Birds are naturally _______ vertebrates.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endothermic (warm-blooded)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key indicates the answer is <strong>Endothermic - warm - blooded</strong>. This means they generate their own body heat.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Birds", "Evolution"],
+    "Question": {
+      "content": "_______ are regarded as the ancestors of birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reptiles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Birds evolved from theropod dinosaurs, which classifies them cladistically as reptiles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Birds", "Biodiversity"],
+    "Question": {
+      "content": "There are currently about _______ species of birds in the world.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10,400"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key provides the estimate of <strong>10,400</strong> species.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Birds", "Biodiversity", "Nigeria"],
+    "Question": {
+      "content": "Nigeria has about _______ species of birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "967"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key specific to this course lists <strong>967</strong> species.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Birds", "Definitions"],
+    "Question": {
+      "content": "_______ is the study of birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ornithology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>From the Greek 'ornis' (bird) and 'logos' (study).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Birds", "Anatomy", "Circulatory System"],
+    "Question": {
+      "content": "Birds have a _______ chambered heart.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Four (4)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Like mammals, birds have a 4-chambered heart to separate oxygenated and deoxygenated blood.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Birds", "Anatomy", "Skeleton"],
+    "Question": {
+      "content": "The axial skeleton of birds comprises of _______, _______, _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skull, the ribs, vertebral column and the sternum"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are the four main components of the central (axial) skeleton in birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Birds", "Anatomy", "Skeleton"],
+    "Question": {
+      "content": "_______ strengthens the thoracic skeleton during flight.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Furcula"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Also known as the \"wishbone,\" the furcula acts like a spring to store energy and strengthen the chest during wing beats.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Birds", "Anatomy", "Skeleton"],
+    "Question": {
+      "content": "Birds have _______ regions in their vertebral column.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5: cervical, dorsal, caudal, synsacral and pygostyle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The spine is fused in specific areas (synsacrum, pygostyle) to provide a rigid frame for flight.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Birds", "Reproduction"],
+    "Question": {
+      "content": "Birds undergo _______ fertilization.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Because they lay hard-shelled eggs, fertilization must happen inside the body before the shell is added.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Birds", "Anatomy", "Skeleton"],
+    "Question": {
+      "content": "The pygostyle is formed by the fusion of _______ caudal vertebrae.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4 – 7"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The pygostyle is the \"tail bone\" plate that supports the tail feathers.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "Birds are classified into _______ groups (subclasses).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2: Archaeorniths and Neorniths"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The two main groups are Ancient birds (Archaeornithes) and Modern birds (Neornithes).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Birds", "Taxonomy", "Paleontology"],
+    "Question": {
+      "content": "_______ is an example of Archaeorniths.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archaeopteryx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Archaeopteryx is the famous transitional fossil between dinosaurs and birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Birds", "Anatomy", "Definitions"],
+    "Question": {
+      "content": "_______ is the absence of teeth in birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Edentulipun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key uses the term <strong>Edentulipun</strong> (likely a specific course term for Edentulism).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "Neornithes have _______ super orders and _______ major orders.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4 and 16"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This refers to the classification system used in this specific course material.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "_______ are terrestrial flightless birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Palaeognathae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Commonly known as Ratites (e.g., Ostrich, Emu).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Birds", "Taxonomy", "Paleontology"],
+    "Question": {
+      "content": "_______ had teeth in the beak.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Odontognathae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>\"Odonto\" means tooth and \"gnatha\" means jaw. These are extinct toothed birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "_______ order are aquatic flightless birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Impannae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This refers to the <strong>Impennes</strong> (Penguins).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Birds", "Taxonomy", "Anatomy"],
+    "Question": {
+      "content": "In what order are oil glands absent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Palaeognathae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Some ratites (Palaeognathae) lack the uropygial (oil) gland used for preening.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "_______ order are cursorial (fast runners) in nature.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Palaeonatiae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cursorial birds like Ostriches belong to the Palaeognathae (spelled Palaeonatiae in the key).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Birds", "Taxonomy", "Adaptation"],
+    "Question": {
+      "content": "_______ order has webbed feet.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Impannae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Penguins (Impennes/Impannae) have webbed feet for swimming.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Birds", "Taxonomy"],
+    "Question": {
+      "content": "_______ are modern birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Neognathae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This group comprises the vast majority of living birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Birds", "Paleontology", "History"],
+    "Question": {
+      "content": "The fossil of Archaeopteryx was found in _______ in the year _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Germany, 1860"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The first feather was discovered in 1860, and the first skeleton in 1861 in the Solnhofen limestone of Germany.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Birds", "Ecology", "Behavior"],
+    "Question": {
+      "content": "_______ and _______ are reasons for bird migration.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Food, shelter"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Birds migrate primarily to find abundant food resources and suitable habitats (shelter) for breeding or wintering.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Birds", "Physiology"],
+    "Question": {
+      "content": "_______ is the process by which birds shed their feathers.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Moulting"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Moulting is the periodic replacement of feathers to maintain flight ability and insulation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Birds", "Anatomy", "Feathers"],
+    "Question": {
+      "content": "_______ are epidermal outgrowths modified from scales.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Feathers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Feathers and reptile scales are both made of keratin and are evolutionarily linked.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Birds", "Feathers", "Functions"],
+    "Question": {
+      "content": "_______, _______ and _______ are the uses of feathers.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protection, hemostasis (likely homeostasis/thermoregulation) and flight"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists \"hemostasis\", which typically refers to stopping bleeding. However, in this biological context, it is almost certainly a typo for <strong>Homeostasis</strong> (specifically thermoregulation/insulation).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Birds", "Behavior"],
+    "Question": {
+      "content": "_______ aids pair bonding.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Beak"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This likely refers to behaviors like mutual preening (allopreening) or courtship feeding, which involve the beak.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Birds", "Ecology", "Adaptation"],
+    "Question": {
+      "content": "_______ and _______ inform us about the bird's ecology.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Foot and legs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The shape of the feet (webbed for swimming, talons for grasping, etc.) tells us where a bird lives and what it does.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Birds", "Feathers"],
+    "Question": {
+      "content": "_______, _______ and _______ are types of feathers.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Contour, down and filoplumes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are the three main functional types of feathers found on birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Birds", "Anatomy", "Beak"],
+    "Question": {
+      "content": "_______ or _______ is another name for the beak.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bill or rostrum"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>\"Bill\" is often used for waterfowl, while \"rostrum\" is the scientific anatomical term.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Birds", "Communication"],
+    "Question": {
+      "content": "_______ is a type of communication in birds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bill clapping"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Common in storks (like the Shoebill), birds use non-vocal sounds like clapping their mandibles together to communicate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "The ceca is located between the _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small and large intestine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The ceca (singular: cecum) are blind pouches found at the junction of the small and large intestines, used for fermenting plant matter.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "_______ is a temporary storage pond for food.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The crop"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The crop is an enlargement of the esophagus where food is stored and moistened before digestion.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "Birds have _______ stomachs.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The avian stomach is divided into two parts: the proventriculus (chemical) and the gizzard (mechanical).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Birds", "Anatomy", "Excretory System"],
+    "Question": {
+      "content": "The large intestine opens into the _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cloaca"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The cloaca is the single posterior opening for the digestive, urinary, and reproductive tracts.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "The gizzard is also known as _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mechanical stomach"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>It acts like teeth, grinding up food with strong muscles and swallowed stones.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "_______ is the true stomach.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proventriculus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The proventriculus is where digestive enzymes and acids are secreted, similar to a human stomach.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Birds", "Anatomy", "Digestive System"],
+    "Question": {
+      "content": "_______ grinds the food into pulps.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The gizzard"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This muscular organ crushes hard food items.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Birds", "Anatomy", "Reproduction"],
+    "Question": {
+      "content": "In as much as the cloaca has an excretory function, it also has a _______ function.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reproduction; eggs are laid through the cloaca"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>It is the exit point for eggs and the site of sperm transfer.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Birds", "Anatomy", "Reproduction"],
+    "Question": {
+      "content": "Some birds like _______, _______ and _______ have a penis.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geese, swan and duck"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>While most birds kiss cloacas, waterfowl (Anseriformes) are one of the few groups that possess an intromittent organ (penis).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Birds", "Reproduction", "Behavior"],
+    "Question": {
+      "content": "Copulation takes place by _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cloaca kissing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This is the brief touching of cloacas to transfer sperm, colloquially called the \"cloacal kiss\".</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "Egg yolk contains _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fats and protein"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The yolk provides the primary energy source (lipids) and building blocks (proteins) for the developing embryo.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ helps to suspend the yolk in the albumen.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chalaza"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The chalazae are twisted strands of albumen that anchor the yolk in the center of the egg.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Birds", "Development"],
+    "Question": {
+      "content": "Embryonic development involves _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell division and cell differentiation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are the two fundamental processes by which a single cell becomes a complex organism.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ contains the cells that develop into a chick if the egg is fertile.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Germinal disc"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Also known as the blastodisc, this small white spot on the yolk is where fertilization and development occur.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Birds", "Anatomy", "Reproduction"],
+    "Question": {
+      "content": "_______ joins the testis to the cloaca.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vas deferens"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This is the tube that transports sperm from the testes to the cloaca.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Birds", "Anatomy", "Reproduction"],
+    "Question": {
+      "content": "Eggs are produced in the _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ovary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Most birds only have one functional ovary (usually the left one) to save weight for flight.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Birds", "Anatomy", "Reproduction"],
+    "Question": {
+      "content": "The funnel passes the egg to the _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oviduct"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>After being released by the ovary, the egg travels down the oviduct where albumen and shell are added.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ makes up 50% of the egg.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Albumen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Also known as egg white, the albumen constitutes the majority of the egg's weight.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ protects the egg (Question 51).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Albumen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists Albumen for question 51. The albumen provides cushioning and anti-microbial protection for the yolk.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ protects the egg (Question 52).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shell membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists Shell membrane for question 52. These membranes serve as a barrier against bacteria and prevent moisture loss.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ serves as a shock absorber.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amniotic liquid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The embryo floats in the amniotic fluid, which protects it from mechanical shocks.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ helps remove nitrogenous waste from the egg.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allantoic fluid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The allantois acts as a storage sac for nitrogenous wastes produced by the embryo.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Birds", "Reproduction", "Egg"],
+    "Question": {
+      "content": "_______ makes up 40% of the egg.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Egg yolk"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The yolk is the nutrient-dense center of the egg.</p>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Fishes"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Fishes", "Physiology"],
+    "Question": {
+      "content": "Most fishes are _______ vertebrates.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ectothermic (cold-blooded)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Fishes are <strong>ectothermic</strong>, meaning they cannot produce their own body heat and rely on the temperature of the water around them.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Fishes", "Communication"],
+    "Question": {
+      "content": "_______ involves the transmission of acoustic signals from one individual of a species to another.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acoustic communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This refers to fish talking to each other using sounds (grunts, clicks, etc.).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Fishes", "Biodiversity"],
+    "Question": {
+      "content": "There are _______ number of described species of fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "33,600"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key gives a specific estimate of <strong>33,600</strong> species.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Fishes are divided into _______ extant classes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3: Agnatha, Chondrichthyes, and Osteichthyes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The three living groups are Jawless fish (Agnatha), Cartilaginous fish (Chondrichthyes), and Bony fish (Osteichthyes).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Fishes", "Paleontology"],
+    "Question": {
+      "content": "_______ is a small, jawless armored fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ostracoderms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Ostracoderms are extinct primitive fish that had a bony shield covering their head and thorax.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ is also known as bony fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Osteichthyes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>\"Osteo\" means bone and \"ichthyes\" means fish.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Fishes", "Evolution"],
+    "Question": {
+      "content": "_______ were the first organism that moved from water to land.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cartilaginous fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p><strong>Note:</strong> The solution key provided lists \"Cartilaginous fish\". However, historically and biologically, Amphibians (evolved from Sarcopterygian bony fish) are considered the first vertebrates to move to land.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ and _______ are examples of the subclass Cyclostoma",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hagfish and lamprey"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cyclostoma means \"round mouth.\" These are the living jawless fishes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ and _______ are examples of the subclass Elasmobranchii",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sharks and Rays"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Elasmobranchs are cartilaginous fish with 5-7 gill slits, like sharks and rays.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Ray finned fish belongs to the subclass _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Actinopterygii"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are the dominant bony fishes with fins supported by rays of bone.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "_______ is the gill cover in fishes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Operculum"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The operculum is the hard bony flap that protects the gills.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Sharks and dogfish belong to _______ order.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Selachii"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Selachii is the order comprising modern sharks.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Skates and rays belong to _______ order",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Batoidea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Batoidea is the superorder containing flattened cartilaginous fish like skates and rays.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Fishes", "Paleontology"],
+    "Question": {
+      "content": "Acanthodians are referred to as _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spiny sharks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They looked like small sharks and had prominent spines in front of their fins.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Fishes", "Biodiversity"],
+    "Question": {
+      "content": "There are over _______ species of sharks.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "500"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>There are more than 500 known species of sharks alive today.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Fishes", "Ecology"],
+    "Question": {
+      "content": "With exceptions, _______ shark and _______ shark can be found in both sea and fresh water.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bull shark and river shark"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These rare sharks are euryhaline, meaning they can tolerate fresh water and swim up rivers.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Fishes", "Evolution"],
+    "Question": {
+      "content": "_______ are the earliest bony fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acanthodians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>While often called spiny sharks, Acanthodians share features with bony fish and are considered early relatives.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Fishes", "Paleontology"],
+    "Question": {
+      "content": "Bony fishes flourished during _______ period.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Devonian period"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The Devonian is famously known as the \"Age of Fishes\".</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "There are _______ infra-classes in the subclass Actinopterygii.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3: Chondrostei, Holostei, Teleostei"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These groups represent the evolutionary progression of ray-finned fishes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "The type of thick bony scales found in early actinopterygians were the _______ type.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ganoid type"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Ganoid scales are hard, diamond-shaped scales found on primitive fish like Gars.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "_______ is a scale with a smooth surface.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cycloid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cycloid scales are circular and smooth, common in fish like salmon and carp.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "_______ connects the swim bladder and the digestive tract.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pneumatic duct"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This duct allows some fish to gulp air to fill their swim bladder. (Note: Solution key is shifted, this corresponds to Sol 23).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ are the most advanced of the spinny-finned fishes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Teleosts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Teleosts make up 96% of all living fish and are considered the most advanced group. (Mapped to Sol 24).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ and _______ are examples of Sarcopterygians.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lung fishes and crossopterygians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Sarcopterygians are the \"lobe-finned\" fishes, ancestors to land vertebrates. (Mapped to Sol 25).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Lungfishes belong to _______ order",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dipnoi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Dipnoi means \"two breaths,\" referring to their ability to breathe using gills or lungs. (Mapped to Sol 26).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Fishes", "Aquaculture"],
+    "Question": {
+      "content": "In aquaculture, true fishes are referred to as _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fin fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This term distinguishes them from \"shellfish\" (crabs, shrimp) in the farming industry. (Mapped to Sol 27).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "_______ scaly type is found in sharks and rays.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Placoid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Placoid scales are like tiny teeth (dermal denticles), giving shark skin its sandpaper texture. (Mapped to Sol 28).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "_______ scaly type is found in fossil lungfish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cosmoid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cosmoid scales are heavy and bony, found in extinct lobe-finned fishes. (Mapped to Sol 29).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "Hagfish and lampreys have no scale. True or False.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True, they do not possess scales"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Jawless fishes (Agnathans) have smooth, slimy skin without scales. (Mapped to Sol 30).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "Hagfishes are sometimes referred to as _______ because of their secretions.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slime eel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They can produce massive amounts of mucus (slime) instantly to deter predators. (Mapped to Sol 31).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Fishes", "Development"],
+    "Question": {
+      "content": "Development from larval form to adulthood in lampreys take _______ years.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Lampreys spend about 5 years as filter-feeding larvae (ammocoetes) before metamorphosing. (Mapped to Sol 32).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Fishes", "Anatomy"],
+    "Question": {
+      "content": "The skeleton of lampreys consists of _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cartilage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Unlike bony fish, lampreys have a skeleton made entirely of cartilage. (Mapped to Sol 33).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Fishes", "Development"],
+    "Question": {
+      "content": "The freshwater larvae of lampreys are called _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ammocoetes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The ammocoete larva looks very different from the adult and lives buried in mud. (Mapped to Sol 34).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Fishes", "Reproduction"],
+    "Question": {
+      "content": "Lampreys reproduce in _______ water.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fresh water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Even marine lampreys must migrate up rivers to spawn in fresh water (anadromous). (Mapped to Sol 35).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Fishes", "Reproduction"],
+    "Question": {
+      "content": "Lampreys continue to live on after laying their eggs. True or False.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False, they die off immediately"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Lampreys die shortly after spawning, investing all their energy into a single reproductive event. (Mapped to Sol 36).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ and _______ are examples of labyrinth fishes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gouranus (Gouramis) and bettas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Labyrinth fish have a special organ to breathe air, allowing them to live in stagnant water. (Mapped to Sol 37).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Fishes", "Adaptation"],
+    "Question": {
+      "content": "_______ is an example of an amphibious fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mudskipper"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Mudskippers can walk on land using their fins and breathe air, making them \"amphibious.\" (Mapped to Sol 38).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______, _______ and _______ are examples of families of catfishes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Loricariidae, callichthyidae, scoloplacidae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are scientific family names for different groups of armored catfish. (Mapped to Sol 39).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Fishes", "Taxonomy"],
+    "Question": {
+      "content": "_______ is the scientific name of brook lamprey.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lampetra planeri"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This is the specific Latin name for the European brook lamprey. (Mapped to Sol 40).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "Lungfish take in air through _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The mouth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They rise to the surface and gulp air into their mouths to fill their primitive lungs. (Mapped to Sol 41).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "Mudskippers take in oxygen through _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The skin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This is called cutaneous respiration; they can breathe through their wet skin while on land. (Mapped to Sol 42).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "_______ is an example of dissolved-oxygen dependent fish.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cichlids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cichlids rely entirely on oxygen dissolved in the water (via gills) and cannot breathe air. (Mapped to Sol 43).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Fishes", "Physiology"],
+    "Question": {
+      "content": "Most air breathing fishes during extreme conditions go into _______ in order to survive",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aestivation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Aestivation is a state of dormancy (like hibernation) used to survive hot and dry periods. (Mapped to Sol 44).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "Air breathing fishes are divided into _______ and _______ air breathers",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Obligate and facultative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Obligate = Must breathe air or drown. Facultative = Can breathe air but doesn't have to. (Mapped to Sol 45).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "_______ is an example of obligate air breathers",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "African lung fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The African lungfish has such small gills that it relies on its lungs and will drown if held underwater. (Mapped to Sol 46).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Fishes", "Respiration"],
+    "Question": {
+      "content": "_______ is an example of facultative air breather",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cat fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Many catfish use gut breathing only when water oxygen levels drop, making them facultative air breathers. (Mapped to Sol 47).</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Amphibians"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Amphibians", "Evolution"],
+    "Question": {
+      "content": "_______ were the first terrestrial animals.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphibians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Amphibians were the first vertebrates to successfully transition from living solely in water to living on land.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Amphibians", "Definitions"],
+    "Question": {
+      "content": "The word amphibian originated from two (2) greek words _______ and _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphi (double) and bios (life)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>\"Amphi\" means double or dual, and \"bios\" means life, referring to their dual life in water and on land. (Note: Solution key has a typo \"douby\" for double).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Amphibians", "Physiology"],
+    "Question": {
+      "content": "Amphibians are _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ectothermic (cold blooded)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They rely on the environment to regulate their body temperature.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Amphibians", "Reproduction"],
+    "Question": {
+      "content": "Fertilization in amphibians is _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "External"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Eggs and sperm are usually released into the water, where fertilization occurs outside the body.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Amphibians", "Reproduction"],
+    "Question": {
+      "content": "Most amphibians are _______ in reproduction.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oviparous (they lay eggs)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They lay eggs rather than giving birth to live young. (Note: Solution key has a typo \"fley\" for they).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Amphibians", "Evolution"],
+    "Question": {
+      "content": "Amphibians evolved from _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fishes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Specifically, they evolved from lobe-finned fishes (Sarcopterygians).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Amphibians", "Evolution"],
+    "Question": {
+      "content": "_______ was the first organism that moved from water to land.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Crossopterygians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These ancient lobe-finned fishes developed the limb-like fins that allowed for the transition to land.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Amphibians", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "_______ are early amphibians that stayed on land.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Labyrinthodonts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Labyrinthodonts were dominant ancient amphibians named for the complex structure of their teeth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Amphibians", "Anatomy"],
+    "Question": {
+      "content": "Male amphibians do not have copulatory organ. True or False.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Most amphibians reproduce via external fertilization and lack a penis (copulatory organ), unlike reptiles and mammals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Amphibians", "Physiology", "Ecology"],
+    "Question": {
+      "content": "_______ occurs when environmental temperature drops below normal during winter.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hibernation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>To survive freezing temperatures, amphibians enter a state of dormancy called hibernation to conserve energy.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Amphibians", "Taxonomy", "Paleontology"],
+    "Question": {
+      "content": "_______ and _______ are extinct subclasses of amphibians.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Labyrinthodont and lepospondyl"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These are the two major groups of prehistoric amphibians that have no living descendants or evolved into modern forms.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "Frogs belong to the order _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anura"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Anura means \"tail-less,\" which describes adult frogs and toads.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Amphibians", "Development"],
+    "Question": {
+      "content": "The larvae of frogs are called _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tadpole"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Tadpoles are the aquatic, gilled larval stage of frogs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Amphibians", "Development"],
+    "Question": {
+      "content": "Frogs exhibit _______ metamorphosis.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complete metamorphosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They undergo a drastic change from the aquatic larva (tadpole) to the terrestrial adult, resorbing the tail and growing legs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Amphibians", "Reproduction"],
+    "Question": {
+      "content": "Frogs and toads exhibits _______ fertilization.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal fertilization (Note: Standard biology typically states External)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key explicitly states <strong>Internal fertilization</strong>, although most biological texts describe Anuran fertilization as external.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "Only toads of the family _______ are considered true toads.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bufonidae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Bufonidae is the scientific family name for the \"True Toads\".</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "_______ is the scientific name of the European fire-bellied frog.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bombina bombina"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This is the binomial nomenclature for the fire-bellied toad/frog.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "_______ is an edible frog.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relophylax esculentus (likely Pelophylax esculentus)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists <strong>Relophylax esculentus</strong>. Note: The scientifically correct genus is typically <em>Pelophylax</em>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "_______ is an examples of organism found in the order gymnophiona.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Caecilians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Caecilians are limbless, snake-like amphibians that belong to the order Gymnophiona.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Amphibians", "Anatomy"],
+    "Question": {
+      "content": "_______ are the numerous ring-shaped folds that partially encircle the body.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Annuli"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Annuli (singular: annulus) are the body rings found externally on Caecilians.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "Order caudata is also known as _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Urodela"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Urodela means \"visible tail,\" referring to salamanders and newts.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "_______ is an example of caudate.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salamander"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Salamanders are the primary members of the order Caudata.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Amphibians", "Taxonomy"],
+    "Question": {
+      "content": "Many of the members of the family salamandridae are known as _______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Newts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Newts are a subgroup of salamanders belonging to the family Salamandridae, often semi-aquatic.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Reptiles"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Reptiles", "Anatomy", "Locomotion"],
+    "Question": {
+      "content": "The limbs of reptiles are better suited for _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creeping"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The name \"Reptile\" comes from the Latin <em>reptare</em>, meaning \"to creep\" or \"to crawl,\" describing their mode of locomotion.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Reptiles", "Evolution"],
+    "Question": {
+      "content": "_______ are ancestors of reptile",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphibians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Reptiles evolved from ancient amphibian-like ancestors called Reptiliomorphs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Reptiles", "Evolution"],
+    "Question": {
+      "content": "_______ are true land tetrapods",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reptile"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Unlike amphibians, reptiles were the first vertebrates fully adapted to life on land without needing water for reproduction.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Reptiles", "Reproduction"],
+    "Question": {
+      "content": "Reptile exhibits _______ fertilization",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal fertilization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Fertilization must occur inside the female's body before the hard shell is added to the egg.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Reptiles", "Reproduction"],
+    "Question": {
+      "content": "The reptile egg is either called _______, _______ or _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cleidoic, amniotic or shelled egg"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These terms describe the self-contained egg that allows reproduction on dry land.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Reptiles", "Taxonomy"],
+    "Question": {
+      "content": "Reptiles, birds and mammals are collectively known as _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amniotes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>They are grouped together because their embryos are protected by a membrane called the amnion.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Reptiles", "Biodiversity"],
+    "Question": {
+      "content": "_______, _______, _______ and _______ are examples of reptiles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Turtles, snakes, lizard and crocodiles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These represent the major living orders of the Class Reptilia.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Reptiles", "Physiology", "Thermoregulation"],
+    "Question": {
+      "content": "Regarding body temperature reptiles are either _______ or _______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ectothermic (cold blooded) or Heliothermic (gaining heat from the sun)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Reptiles rely on external heat sources. Many are heliotherms, meaning they bask in the sun to warm up.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Reptiles", "Anatomy", "Circulatory System"],
+    "Question": {
+      "content": "All reptiles have _______ chambered heart",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Most reptiles possess a 3-chambered heart consisting of two atria and one partially divided ventricle.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Reptiles", "Anatomy", "Circulatory System"],
+    "Question": {
+      "content": "Crocodiles have _______ chambered heart",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Crocodilians are unique among reptiles for having a fully 4-chambered heart, similar to birds and mammals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Reptiles", "Anatomy", "Circulatory System"],
+    "Question": {
+      "content": "Lizards have _______ chambered heart",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Like snakes and turtles, lizards have the standard reptilian 3-chambered heart.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Reptiles", "Adaptation"],
+    "Question": {
+      "content": "_______, _______, _______ and _______ are some major adaptatives of reptiles to life or land",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skin, kidney, reproduction and lungs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Key adaptations include: Scaly skin (prevents drying), Efficient kidneys (conserve water), Amniotic eggs (reproduction on land), and Lungs (air breathing).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Reptiles", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "Reptiles first appeared during the _______ period",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carboniferous period"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The first true reptiles evolved in the swamps of the Carboniferous period, over 300 million years ago.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Reptiles", "Evolution", "Taxonomy"],
+    "Question": {
+      "content": "_______ is a group consisting of ancestors and descendants",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cladistics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Cladistics is the method of classifying animals based on common ancestry.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Reptiles", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "_______ is the oldest Amniote",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reptiliomorph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Reptiliomorphs are the tetrapods that gave rise to the amniotes (reptiles, birds, mammals).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Reptiles", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "_______ is the oldest reptile",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hylonomus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Found in fossilized tree stumps, <em>Hylonomus</em> is widely considered the earliest known reptile.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Reptiles", "Evolution", "Taxonomy"],
+    "Question": {
+      "content": "_______ were the first reptiles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anapsids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The first reptiles had skulls with no temporal openings behind the eye socket, a condition known as Anapsid.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Reptiles", "Evolution", "Taxonomy"],
+    "Question": {
+      "content": "_______, _______, _______ and _______ are all early reptile",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anapsids, synapsids, diapsids and sauropsid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>These terms refer to the major evolutionary lineages of early reptiles, distinguished by their skull structure.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Reptiles", "Evolution", "Taxonomy"],
+    "Question": {
+      "content": "_______ and _______ are the division of anapside",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synapsid and diapsida"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p><strong>Note:</strong> The solution key lists \"Synapsid and diapsida\". However, biologically, Synapsids and Diapsids are distinct groups that evolved <em>from</em> early amniotes, not necessarily subdivisions of Anapsids.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Reptiles", "Taxonomy"],
+    "Question": {
+      "content": "_______ are true reptiles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sauropsida"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Sauropsida is the clade that includes all modern reptiles and birds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Reptiles", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "Permian reptiles came into existence at the end of _______ era",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carboniferous Era"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The Permian period followed the Carboniferous period, marking a time of great reptilian diversification.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Reptiles", "Evolution"],
+    "Question": {
+      "content": "_______ were the forefathers of crocodiles and dew savers (dinosaurs)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archosaus (Archosauria)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Archosaurs (\"Ruling Lizards\") are the group that includes crocodiles, dinosaurs, and birds. Note: \"Dew savers\" is likely a typo for dinosaurs in the source.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Reptiles", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "_______ is referred to the age of reptiles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Mesozoic Era"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>This era, which includes the Triassic, Jurassic, and Cretaceous periods, was dominated by reptiles, especially dinosaurs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Reptiles", "Taxonomy"],
+    "Question": {
+      "content": "_______ are reptiles with shell",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clethenia (Chelonia)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists \"Clethenia,\" which is a typo for <strong>Chelonia</strong> (turtles and tortoises).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Reptiles", "Taxonomy"],
+    "Question": {
+      "content": "_______ order contains lizard and soak (snake)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Squamata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>Squamata is the largest order of reptiles, containing lizards and snakes. \"Soak\" is a typo for snake.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Reptiles", "Taxonomy"],
+    "Question": {
+      "content": "_______ is the family of pythons, boas",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biodae (Boidae)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <p>The solution key lists \"Biodae,\" which is a typo for <strong>Boidae</strong>, the family of non-venomous constricting snakes.</p>\n</div>"
+    }
+  }
+]
