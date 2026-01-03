@@ -1,0 +1,1758 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Protochordates and chordates",
+    "code": "AEB 302.1",
+    "session": "2022/2023",
+    "topics": [
+      "Vertebrates",
+      "Amphibians",
+      "Classification",
+      "Fishes",
+      "Agnatha",
+      "Reptiles",
+      "Osteichthyes",
+      "Placodermi",
+      "Paleontology",
+      "Chondrichthyes",
+      "Evolution",
+      "Physiology",
+      "Communication",
+      "Biodiversity",
+      "Ecology",
+      "Acanthodii",
+      "Taxonomy",
+      "Thermoregulation",
+      "Adaptation",
+      "Anatomy",
+      "Circulatory System",
+      "Respiration",
+      "Definitions",
+      "Head",
+      "Urochordates",
+      "Development",
+      "Larvaceans",
+      "Thaliacea",
+      "Sensory Organs",
+      "Lamprey",
+      "Digestive System",
+      "Excretion",
+      "Nervous System",
+      "Hearing",
+      "Pain Perception",
+      "Swim Bladder",
+      "Reproduction",
+      "Sound Production",
+      "Dormancy",
+      "Biology",
+      "Birds",
+      "Skeleton",
+      "Feathers",
+      "Mammals",
+      "Primates"
+    ],
+    
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Vertebrates", "Amphibians", "Classification"],
+    "Question": {
+      "content": "Match the class 'Amphibia' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Toads, Frogs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Amphibian Examples</h4>\n  <p>The solution key indicates the answer is <strong>E</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    Amphibians are characterized by their dual life (water and land). <strong>Frogs and Toads</strong> are the most common examples of this class (Order Anura). \n  </div>\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 8px; border-radius: 4px; margin-top: 10px;'>\n    <strong>Check the others:</strong><br>\n    Tortoises/Lizards are Reptiles.<br>\n    Sharks/Rays are Chondrichthyes.<br>\n    Catfish/Koi are Osteichthyes.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Vertebrates", "Fishes", "Agnatha"],
+    "Question": {
+      "content": "Match the class 'Agnatha' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lamprey, Hagfish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Jawless Fishes (Agnatha)</h4>\n  <p>The solution key indicates the answer is <strong>C</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    <em>Agnatha</em> literally means \"no jaws\" (A = no, Gnatha = jaws). The only surviving jawless fish today are <strong>Lampreys</strong> and <strong>Hagfish</strong>. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Vertebrates", "Reptiles", "Classification"],
+    "Question": {
+      "content": "Match the class 'Reptilia' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tortoises, Lizards"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reptile Examples</h4>\n  <p>The solution key indicates the answer is <strong>A</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Identification</strong><br>\n    Reptiles are characterized by dry, scaly skin and laying shelled eggs on land. <strong>Tortoises and Lizards</strong> fit this description perfectly.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Vertebrates", "Fishes", "Osteichthyes"],
+    "Question": {
+      "content": "Match the class 'Osteichthyes' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catfish, Koi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bony Fishes (Osteichthyes)</h4>\n  <p>The solution key indicates the answer is <strong>F</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    <em>Osteichthyes</em> means \"Bony Fish\". These are fish with skeletons made of bone, not cartilage. <strong>Catfish</strong> and <strong>Koi</strong> are classic examples of this group.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Vertebrates", "Fishes", "Placodermi", "Paleontology"],
+    "Question": {
+      "content": "Match the class 'Placodermi' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dunkleosteus, Bothriolepis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Armoured Prehistoric Fish</h4>\n  <p>The solution key indicates the answer is <strong>D</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Context</strong><br>\n    Placoderms are an extinct class of fish that had heavy bony armor on their heads and necks. <strong>Dunkleosteus</strong> was a massive predator in this group. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Vertebrates", "Fishes", "Chondrichthyes"],
+    "Question": {
+      "content": "Match the class 'Chondrichthyes' with the correct examples.",
+      "type": "OBJ",
+      "options": [
+        "Tortoises, Lizards",
+        "Sharks, Rays",
+        "Lamprey, Hagfish",
+        "Dunkleosteus, Bothriolepis",
+        "Toads, Frogs",
+        "Catfish, Koi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sharks, Rays"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cartilaginous Fishes</h4>\n  <p>The solution key indicates the answer is <strong>B</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    <em>Chondrichthyes</em> means \"Cartilage Fish\". Their skeletons are made of flexible cartilage (like your ear), not hard bone. <strong>Sharks and Rays</strong> belong to this class.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Evolution", "Vertebrates"],
+    "Question": {
+      "content": "The earliest organisms that can be classified as fish did not lack a true spine.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not really",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Early Fish Anatomy</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Explanation</strong><br>\n    The solution explicitly states: \"They lacked a true spine. However, they possessed a notochord in its stead, which allowed them to be more agile than their invertebrate counterparts.\".\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Evolution", "Fishes", "Paleontology"],
+    "Question": {
+      "content": "The first fish with jaws appeared in the _______ period/era.",
+      "type": "OBJ",
+      "options": [
+        "Paraphyletic",
+        "Devonian",
+        "Silurian",
+        "Paleozoic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Silurian"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evolution of Jaws</h4>\n  <p>The solution key indicates the answer is <strong>C (Silurian)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Timeline</strong><br>\n    While the Devonian is called the \"Age of Fishes,\" the major evolutionary jump—developing jaws (Gnathostomes)—happened in the period before that, the <strong>Silurian</strong> period. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Fishes", "Physiology", "Communication"],
+    "Question": {
+      "content": "Fishes produce _______ sounds by moving components of the skeletal system.",
+      "type": "OBJ",
+      "options": [
+        "Endothermic",
+        "Non-stridulatory",
+        "Stridulatory",
+        "Exothermic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stridulatory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fish Communication</h4>\n  <p>The solution key indicates the answer is <strong>C (Stridulatory)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How it works</strong><br>\n    Just like crickets rub their legs together, some fish rub bony parts (like teeth or fin spines) together to make noise. This grinding mechanism is called <strong>stridulation</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Fishes", "Biodiversity", "Ecology"],
+    "Question": {
+      "content": "_______ are examples of fishes that can be found in the oceanic trenches.",
+      "type": "OBJ",
+      "options": [
+        "Cliar",
+        "Gudgeon",
+        "Gulpers",
+        "Ray"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gulpers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deep Sea Fish</h4>\n  <p>The solution key indicates the answer is <strong>C (Gulpers)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Gulper Eel</strong><br>\n    Oceanic trenches are extremely deep and dark. <strong>Gulper eels</strong> (or pelican eels) are specially adapted for this environment with massive mouths to swallow scarce prey whole. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Fishes", "Paleontology", "Agnatha"],
+    "Question": {
+      "content": "_______ are small, jawless, armoured fishes.",
+      "type": "OBJ",
+      "options": [
+        "Anopsida",
+        "Ostracoderms",
+        "Ostrachs",
+        "Sacroplerygii"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ostracoderms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ancient Armoured Fish</h4>\n  <p>The solution key indicates the answer is <strong>B (Ostracoderms)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Etymology</strong><br>\n    The name <em>Ostracoderm</em> comes from Greek words meaning \"Shell Skin\" (Ostracon = Shell, Derma = Skin). These were the first vertebrates with bony armor, but they had no jaws.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Fishes", "Paleontology", "Acanthodii"],
+    "Question": {
+      "content": "Acanthodians are also referred to as _______",
+      "type": "OBJ",
+      "options": [
+        "Ray Shark",
+        "Spine Sharks",
+        "Shark",
+        "Spiny Sharks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spiny Sharks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Spiny Sharks</h4>\n  <p>The solution key indicates the answer is <strong>D (Spiny Sharks)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    Acanthodians are an extinct class of fish. They looked like small sharks but had stout spines supporting their fins. Thus, the common name \"Spiny Sharks.\"\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Fishes", "Taxonomy", "Chondrichthyes"],
+    "Question": {
+      "content": "_______ belongs to the order Batoidea",
+      "type": "OBJ",
+      "options": [
+        "Anglefish",
+        "Blue Shark",
+        "Skates",
+        "Nako Shark"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Order Batoidea</h4>\n  <p>The solution key indicates the answer is <strong>C (Skates)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Flat Cartilaginous Fish</strong><br>\n    Cartilaginous fish (Chondrichthyes) are split into two main groups: Sharks (Selachii) and Rays/Skates (Batoidea). Since Batoidea refers to the flat-bodied bottom dwellers, <strong>Skates</strong> is the correct answer. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Fishes", "Evolution", "Paleontology"],
+    "Question": {
+      "content": "Osteichthyes flourished in _______ era.",
+      "type": "OBJ",
+      "options": [
+        "Paleozoic",
+        "Devonian",
+        "Silurian",
+        "Peruvian"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Devonian"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Age of Fishes</h4>\n  <p>The solution key indicates the answer is <strong>B (Devonian)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Historical Context</strong><br>\n    The Devonian period is famously known as the \"Age of Fishes\" because this is when bony fish (Osteichthyes) and early sharks became diverse and abundant.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Fishes", "Physiology", "Thermoregulation"],
+    "Question": {
+      "content": "A typical fish is _______",
+      "type": "OBJ",
+      "options": [
+        "Exothermic",
+        "Endothermic",
+        "Stridulatory",
+        "Non-Stridulatory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Exothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fish Body Temperature</h4>\n  <p>The solution key indicates the answer is <strong>A (Exothermic)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Exothermic (often called cold-blooded) means the animal cannot generate its own internal body heat. Its temperature matches the water around it. This is true for almost all fish.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Fishes", "Adaptation", "Physiology"],
+    "Question": {
+      "content": "Catfish of _______ family absorb air through their digestive tracts.",
+      "type": "OBJ",
+      "options": [
+        "Loricanidae",
+        "Calcichthydae",
+        "Scoloplacidae",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Air Breathing Catfish</h4>\n  <p>The solution key indicates the answer is <strong>D (All of the above)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Gut Breathing</strong><br>\n    Many catfish families (Loricariidae, Callichthyidae, Scoloplacidae) have evolved the ability to swallow air and absorb oxygen through their stomach or intestine walls. This helps them survive in muddy, oxygen-poor water.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Fishes", "Anatomy", "Circulatory System"],
+    "Question": {
+      "content": "The circulatory system of fish are not close-looped.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not really",
+        "Maybe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fish Circulation</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Single Closed Loop</strong><br>\n    The statement is false because fish <strong>DO</strong> have a closed-loop system. Blood stays inside blood vessels (arteries and veins) the whole time. It pumps from the Heart → Gills → Body → Heart. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Fishes", "Respiration", "Classification"],
+    "Question": {
+      "content": "Air breathing fish can be divided into _______ types",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Air Breathers</h4>\n  <p>The solution key indicates the answer is <strong>A (2)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Two Categories</strong><br>\n    1. <strong>Obligate Air Breathers:</strong> Must breathe air or they drown (e.g., Electric Eel).<br>\n    2. <strong>Facultative Air Breathers:</strong> Only breathe air when they have to, usually when water oxygen is low (e.g., Catfish).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Fishes", "Respiration", "Definitions"],
+    "Question": {
+      "content": "Obligate air-breathers only breathe air if they need to and will otherwise rely on their gills for oxygen.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Kind of",
+        "None"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Obligate vs. Facultative</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Correction</strong><br>\n    The definition in the question actually describes <em>Facultative</em> air breathers. <strong>Obligate</strong> air breathers are \"obligated\" (forced) to breathe air constantly; if you keep them underwater without access to the surface, they will actually drown.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Fishes", "Anatomy", "Head"],
+    "Question": {
+      "content": "In most fish, the head consists of _______ parts.",
+      "type": "OBJ",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "8"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Regions of the Fish Head</h4>\n  <p>The solution key indicates the answer is <strong>C (4)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Anatomy Breakdown</strong><br>\n    The fish head is commonly divided into four main regions:<br>\n    1. <strong>Snout:</strong> From the eye to the tip of the jaw.<br>\n    2. <strong>Orbital:</strong> The area around the eye.<br>\n    3. <strong>Post-orbital (Cheek):</strong> Behind the eye.<br>\n    4. <strong>Opercular:</strong> The gill cover.\n  </div>\n</div>"
+    }
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Urochordates",
+      "Development",
+      "Larvaceans"
+    ],
+    "Question": {
+      "content": "What is the phenomenon where most hermaphroditic larvaceans become sexually mature and reproduce while retaining larval features?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Neoteny (listed as 'Neoleny' in the solution key)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Retention of Larval Traits</h4>\n  <p>The solution key provides the answer as <strong>Neoleny</strong>, which is likely a typo for <strong>Neoteny</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Concept</strong><br>\n    Larvaceans (Appendicularians) are unique tunicates because they don't undergo the metamorphosis typical of other urochordates. Instead, they become sexually mature while keeping their tail and notochord—a phenomenon called neoteny or paedomorphosis.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Urochordates",
+      "Classification",
+      "Thaliacea"
+    ],
+    "Question": {
+      "content": "Which class of free swimming urochordates are commonly called Salps?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thaliacea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Class Thaliacea</h4>\n  <p>The solution key indicates the answer is <strong>Thaliacea</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Context</strong><br>\n    Salps are barrel-shaped, free-swimming tunicates. Unlike the sessile (stuck in one place) sea squirts, Thaliaceans float in the open ocean.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Urochordates",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "What is the biggest and most important structure of the body of Tunicates?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pharynx"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Pharyngeal Basket</h4>\n  <p>The solution key indicates the answer is <strong>Pharynx</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    In tunicates, the pharynx is a massive structure that takes up most of the body. It acts as a sieve, filtering plankton out of the water for food and absorbing oxygen for respiration.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Urochordates",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "Within the gill slits of tunicates are series of projections called ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Languets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dorsal Languets</h4>\n  <p>The solution key indicates the answer is <strong>Languets</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    These are small, tongue-like projections found on the dorsal side of the pharynx in tunicates. They help move the mucus sheet that traps food particles down into the esophagus.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Urochordates",
+      "Sensory Organs"
+    ],
+    "Question": {
+      "content": "The series of pigment spots in the mouth of tunicates are called ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sensory tentacles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Oral Tentacles</h4>\n  <p>The solution key indicates the answer is <strong>Sensory tentacles</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    Located at the entrance of the oral siphon, these tentacles prevent large particles from entering the delicate pharynx and also have sensory functions to detect water quality.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Agnatha",
+      "Development",
+      "Lamprey"
+    ],
+    "Question": {
+      "content": "Lampreys begin life as burrowing freshwater larvae called ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ammocoetes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ammocoete Larva</h4>\n  <p>The solution key indicates the answer is <strong>Ammocoetes</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Evolutionary Significance</strong><br>\n    The ammocoete larva of the lamprey is incredibly important to biologists because it looks and behaves almost exactly like the primitive chordate <em>Amphioxus</em>. It lives buried in mud, filter-feeding for years before metamorphosing into the adult lamprey.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "What is the thin-walled sac that collects blood from the fish's veins?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sinus venosus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Chamber</h4>\n  <p>The solution key indicates the answer is <strong>Sinus venosus</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    This is the receiving chamber of the fish heart. It collects oxygen-poor blood from the body and funnels it into the atrium.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "What is the large muscular chamber of a fish's heart?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The atrium"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Heart Chambers</h4>\n  <p>The solution key indicates the answer is <strong>The atrium</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Note</strong><br>\n    While the ventricle is typically the primary pump, the question refers to the large chamber preceding it. The atrium expands to pull blood from the sinus venosus.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "What pumps blood away from the fish's heart?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The ventricle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Main Pump</h4>\n  <p>The solution key indicates the answer is <strong>The ventricle</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Action</strong><br>\n    The ventricle is the thick-walled muscular chamber that contracts powerfully to drive blood out of the heart, into the bulbus arteriosus, and towards the gills.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Digestive System"
+    ],
+    "Question": {
+      "content": "In most fishes, food is processed in finger-shaped pouches called ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pyloric caeca"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digestive Helpers</h4>\n  <p>The solution key indicates the answer is <strong>Pyloric caeca</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Location</strong><br>\n    These are finger-like extensions found where the stomach meets the intestine. They secrete enzymes and provide extra surface area to help digest and absorb food.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Digestive System"
+    ],
+    "Question": {
+      "content": "What completes the process of digestion and nutrient absorption in fishes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The intestine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Final Processing</h4>\n  <p>The solution key indicates the answer is <strong>The intestine</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Role</strong><br>\n    Just like in humans, the intestine is where the final breakdown of food happens and where nutrients enter the bloodstream.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Fishes",
+      "Physiology",
+      "Excretion"
+    ],
+    "Question": {
+      "content": "Most fishes release their waste as ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ammonia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nitrogenous Waste</h4>\n  <p>The solution key indicates the answer is <strong>Ammonia</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Ammonia?</strong><br>\n    Ammonia is very toxic but highly soluble in water. Since fish live in water, they can afford to produce this cheap metabolic waste and flush it out immediately through their gills.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Fishes",
+      "Physiology",
+      "Excretion"
+    ],
+    "Question": {
+      "content": "Blood wastes in fishes are filtered by ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the kidney"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Filtration System</h4>\n  <p>The solution key indicates the answer is <strong>the kidney</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "What is the structural equivalent to the cerebrum in higher vertebrates?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Telencephalon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Brain Anatomy</h4>\n  <p>The solution key indicates the answer is <strong>Telencephalon</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Details</strong><br>\n    The telencephalon acts as the primary olfactory (smell) center in fish, whereas in higher vertebrates (like humans), it evolved into the large cerebrum responsible for thinking.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "In fishes, what connects the forebrain to the midbrain?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "diencephalon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Bridge</h4>\n  <p>The solution key indicates the answer is <strong>diencephalon</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "What is another name for the midbrain in fishes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesencephalon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Midbrain</h4>\n  <p>The solution key indicates the answer is <strong>Mesencephalon</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    The mesencephalon contains the optic lobes and is the primary center for vision in fish.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "What is the biggest part of the fish brain?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cerebellum"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Motor Control</h4>\n  <p>The solution key indicates the answer is <strong>Cerebellum</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    Swimming requires complex coordination and balance. Therefore, the part of the brain responsible for this (the cerebellum) is highly developed and large in fish.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "What is another name for the brain stem in fishes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Myelencephalon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Brain Stem</h4>\n  <p>The solution key indicates the answer is <strong>Myelencephalon</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    This is the posterior part of the brain that connects to the spinal cord (medulla oblongata), controlling vital functions like respiration and heart rate.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Fishes",
+      "Sensory Organs",
+      "Chondrichthyes"
+    ],
+    "Question": {
+      "content": "Some fishes possess ___ that detect weak electronic currents",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ampulae of Lorenzini"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Sixth Sense</h4>\n  <p>The solution key indicates the answer is <strong>Ampulae of Lorenzini</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What are they?</strong><br>\n    These are special jelly-filled pores found on the heads of sharks and rays. They allow the predator to detect the tiny electrical fields generated by the muscle contractions of hidden prey. \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Agnatha",
+      "Anatomy",
+      "Lamprey"
+    ],
+    "Question": {
+      "content": "Among jawless fish, which group has well developed eyes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lamprey"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vision in Agnatha</h4>\n  <p>The solution key indicates the answer is <strong>Lamprey</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Comparison</strong><br>\n    There are two main groups of jawless fish: Lampreys and Hagfish. Hagfish are scavengers in the deep dark ocean and have degenerate eyes. Lampreys, however, have functional, well-developed eyes.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Fishes",
+      "Sensory Organs",
+      "Hearing"
+    ],
+    "Question": {
+      "content": "Fishes sense sound using only their ears.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Maybe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hearing in Fish</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    While fish do have inner ears (otoliths), they also use their <strong>lateral line system</strong> to detect low-frequency vibrations and water movement, which is a component of \"hearing\" underwater.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Fishes",
+      "Physiology",
+      "Pain Perception"
+    ],
+    "Question": {
+      "content": "Professor James D. Rose of The University of Wyoming provided evidence that fish have pain and few responses.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not sure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fish Pain Debate</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Context</strong><br>\n    Prof. James Rose famously argued that fish <em>cannot</em> feel pain (conscious suffering) because they lack the neocortex, the part of the brain responsible for that sensation in humans. They simply show reflex responses.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Fishes",
+      "Anatomy",
+      "Swim Bladder"
+    ],
+    "Question": {
+      "content": "The swim bladder in fishes decrease the amount of friction from the water allowing them to swim.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not exactly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Function of Swim Bladder</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Correction</strong><br>\n    The swim bladder controls <strong>buoyancy</strong> (floating), not friction. Friction is reduced by the fish's slime (mucus) and scales.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Fishes",
+      "Reproduction",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "Fish ovaries are of ___ types.",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ovary Types</h4>\n  <p>The solution key indicates the answer is <strong>B (3)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Details</strong><br>\n    The three types generally recognized in ichthyology are: Gymnovarian, Secondary gymnovarian, and Cystovarian.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Fishes",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "Over 97% of all fish are ___",
+      "type": "OBJ",
+      "options": [
+        "viviparous",
+        "carnivorous",
+        "oviparous",
+        "herbivores"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "oviparous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Egg Layers</h4>\n  <p>The solution key indicates the answer is <strong>C (oviparous)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Oviparous means \"egg-laying\". The vast majority of fish lay eggs that are fertilized externally. Only a few (like some sharks and guppies) give live birth (viviparous).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Fishes",
+      "Physiology",
+      "Sound Production"
+    ],
+    "Question": {
+      "content": "Noise produced by bone-to-bone interactions in fishes are called non-stridulating sounds.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not really"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stridulation</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Correction</strong><br>\n    Rubbing bony parts together IS the definition of <strong>stridulation</strong>. Therefore, calling them \"non-stridulating\" is incorrect.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Fishes",
+      "Physiology",
+      "Sound Production"
+    ],
+    "Question": {
+      "content": "Some muscles are located along the sides of the swim bladder of the oyster toadfish.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not really"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sonic Muscles</h4>\n  <p>The solution key indicates the answer is <strong>A (True)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Toadfish</strong><br>\n    The oyster toadfish is famous for its \"boat-whistle\" call. It makes this sound using super-fast muscles attached to its swim bladder, vibrating it like a drum.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Amphibians",
+      "Physiology",
+      "Thermoregulation"
+    ],
+    "Question": {
+      "content": "Amphibians are ___",
+      "type": "OBJ",
+      "options": [
+        "endothermic",
+        "warm-blooded",
+        "ectothermic",
+        "hot-blooded"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ectothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cold Blooded</h4>\n  <p>The solution key indicates the answer is <strong>C (ectothermic)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Ectothermic means they rely on external sources (like the sun or warm rocks) to regulate their body temperature.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Amphibians",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "Most amphibians are ___",
+      "type": "OBJ",
+      "options": [
+        "carnivorous",
+        "oviparous",
+        "viviparous",
+        "herbivorous"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "oviparous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Amphibian Reproduction</h4>\n  <p>The solution key indicates the answer is <strong>B (oviparous)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Egg Laying</strong><br>\n    Most amphibians (frogs, toads, salamanders) lay eggs in water, which then hatch into aquatic larvae (tadpoles).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Amphibians",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "Fertilization in amphibians is ___",
+      "type": "OBJ",
+      "options": [
+        "internal",
+        "external",
+        "by the side",
+        "inferior"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "external"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spawning</h4>\n  <p>The solution key indicates the answer is <strong>B (external)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Process</strong><br>\n    In most frogs and toads, the female releases eggs into the water while the male simultaneously releases sperm over them. Fertilization happens outside the body.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section C"
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Amphibians",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "Male amphibians have copulatory organ and water is needed for reproduction.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not exactly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Amphibian Mating</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    While water is needed for reproduction, most male amphibians (specifically frogs and toads) <strong>lack</strong> a copulatory organ (penis). They use external fertilization (spawning), where sperm is sprayed over eggs as they are laid.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Amphibians",
+      "Physiology",
+      "Dormancy"
+    ],
+    "Question": {
+      "content": "The phenomenon where amphibians go into dormant state during the hottest and driest part of the year is called hibernation.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not exactly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Estivation vs. Hibernation</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Correction</strong><br>\n    Hibernation is dormancy during <em>cold</em> (winter). Dormancy during heat and drought is called <strong>Estivation</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Amphibians",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "_______ family are only considered as true toads.",
+      "type": "OBJ",
+      "options": [
+        "Bufonidae",
+        "Bufonface",
+        "Bufonidead",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bufonidae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>True Toads</h4>\n  <p>The solution key indicates the answer is <strong>C (Bufonidae)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Classification</strong><br>\n    In taxonomy, the family <strong>Bufonidae</strong> contains the \"true toads,\" characterized by dry, warty skin and parotoid poison glands.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": [
+      "Amphibians",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "_______ is another name for the European fire-bellied frog.",
+      "type": "OBJ",
+      "options": [
+        "Bombina bufonidae",
+        "Bombina bombina",
+        "Bombina alelopus",
+        "Bombino zeleti"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bombina bombina"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Scientific Naming</h4>\n  <p>The solution key indicates the answer is <strong>B (Bombina bombina)</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Biology",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "_______ is the study of traditional reptiles and modern amphibians.",
+      "type": "OBJ",
+      "options": [
+        "Herpetology",
+        "Serpentology",
+        "Reptilogy",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Herpetology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Branch of Zoology</h4>\n  <p>The solution key indicates the answer is <strong>A (Herpetology)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Etymology</strong><br>\n    From the Greek 'herpeton' meaning \"creeping thing.\" It covers both amphibians (like frogs) and reptiles (like snakes).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Amphibians",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Amphibians are _______.",
+      "type": "OBJ",
+      "options": [
+        "ectothermic",
+        "endothermic",
+        "hot-blooded",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ectothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Temperature Regulation</h4>\n  <p>The solution key indicates the answer is <strong>A (ectothermic)</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": [
+      "Reptiles",
+      "Reproduction",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "A reptile egg is called _______.",
+      "type": "OBJ",
+      "options": [
+        "cleidoic",
+        "amniotic",
+        "shelled egg",
+        "all of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Land Egg</h4>\n  <p>The solution key indicates the answer is <strong>D (all of the above)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    Reptile eggs fit all these descriptions:<br>\n    1. <strong>Cleidoic:</strong> A closed system (box).<br>\n    2. <strong>Amniotic:</strong> Contains the amnion membrane.<br>\n    3. <strong>Shelled:</strong> Has a protective outer shell.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Reptiles",
+      "Anatomy",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "All reptiles have _______ chambered heart.",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reptile Heart</h4>\n  <p>The solution key indicates the answer is <strong>D (3)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Important Note</strong><br>\n    Most reptiles have a 3-chambered heart (2 atria, 1 partially divided ventricle). The exception is crocodilians, which have 4, but in the context of general questions, 3 is the standard answer.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": [
+      "Reptiles",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "Fertilization in reptiles is _______.",
+      "type": "OBJ",
+      "options": [
+        "internal",
+        "external",
+        "all of the above",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "internal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Internal Fertilization</h4>\n  <p>The solution key indicates the answer is <strong>A (internal)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Necessity</strong><br>\n    Because reptiles lay eggs with tough shells, the sperm must reach the egg <em>before</em> the shell is formed. This requires internal fertilization.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": [
+      "Reptiles",
+      "Development"
+    ],
+    "Question": {
+      "content": "Reptiles do not undergo metamorphosis.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Direct Development</h4>\n  <p>The solution key indicates the answer is <strong>A (True)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>No Larval Stage</strong><br>\n    Unlike amphibians, baby reptiles hatch from the egg looking like miniature versions of the adult. They do not have a tadpole-like larval stage.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Reptiles",
+      "Evolution",
+      "Paleontology"
+    ],
+    "Question": {
+      "content": "_______ is the oldest known reptile.",
+      "type": "OBJ",
+      "options": [
+        "Hylonos",
+        "Hylonomus",
+        "Hylonomusa",
+        "Hylonomosidae"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hylonomus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Reptile</h4>\n  <p>The solution key indicates the answer is <strong>B (Hylonomus)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fact</strong><br>\n    <em>Hylonomus</em> is an extinct reptile from the Carboniferous period, often cited in textbooks as the earliest confirmed reptile.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Reptiles",
+      "Evolution",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "_______ are the first reptiles.",
+      "type": "OBJ",
+      "options": [
+        "Diapsids",
+        "Synapsids",
+        "Anapsids",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anapsids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Skull Types</h4>\n  <p>The solution key indicates the answer is <strong>C (Anapsids)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Context</strong><br>\n    The earliest reptiles had skulls with no holes behind the eye sockets (Anapsid condition). Turtles are the modern survivors of this lineage (or secondarily anapsid).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Birds",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Birds are _______.",
+      "type": "OBJ",
+      "options": [
+        "endothermic",
+        "ectothermic",
+        "Hot blooded",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "endothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Warm Blooded</h4>\n  <p>The solution key indicates the answer is <strong>A (endothermic)</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Birds",
+      "Anatomy",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "Birds have _______ chambered heart.",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Avian Heart</h4>\n  <p>The solution key indicates the answer is <strong>B (4)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Efficiency</strong><br>\n    Like mammals, birds have a 4-chambered heart to completely separate oxygenated and deoxygenated blood, supporting their high-energy flight.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Birds",
+      "Anatomy",
+      "Skeleton"
+    ],
+    "Question": {
+      "content": "_______ is not a vertebral column in birds.",
+      "type": "OBJ",
+      "options": [
+        "Cervical",
+        "Dorsal",
+        "Synsacral",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bird Spine Regions</h4>\n  <p>The solution key indicates the answer is <strong>D (None of the above)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Context</strong><br>\n    This implies that Cervical, Dorsal (Thoracic), and Synsacral are all valid parts of a bird's spine. Since the question asks what is <em>not</em> a part, and all options are parts, \"None of the above\" is the correct choice.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Birds",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "Birds are classified into _______ subclasses.",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bird Subclasses</h4>\n  <p>The solution key indicates the answer is <strong>A (2)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Details</strong><br>\n    The two subclasses are <strong>Archaeornithes</strong> (Ancient birds, e.g., Archaeopteryx) and <strong>Neornithes</strong> (Modern birds).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Birds",
+      "Thermoregulation",
+      "Feathers"
+    ],
+    "Question": {
+      "content": "During cold weather, birds close their feathers to increase the amount of heat they trap.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fluffing Up</h4>\n  <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why?</strong><br>\n    To stay warm, birds <strong>fluff</strong> (erect) their feathers, not close/flatten them. Fluffing traps a thicker layer of air against the skin, which acts as insulation.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Birds",
+      "Feathers"
+    ],
+    "Question": {
+      "content": "Contour feathers are also called _______.",
+      "type": "OBJ",
+      "options": [
+        "down feathers",
+        "hair feathers",
+        "Quill feathers",
+        "bristle feathers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quill feathers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Feather Terminology</h4>\n  <p>The solution key indicates the answer is <strong>C (Quill feathers)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reason</strong><br>\n    Contour feathers (especially flight feathers) have a strong central shaft called a quill (or calamus) at the base.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Mammals",
+      "Reproduction",
+      "Classification"
+    ],
+    "Question": {
+      "content": "_______ mammals are egg-laying mammals.",
+      "type": "OBJ",
+      "options": [
+        "Exothermic",
+        "Therians",
+        "Endothermic",
+        "Protherians"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protherians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Monotremes</h4>\n  <p>The solution key indicates the answer is <strong>D (Protherians)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Typo Note</strong><br>\n    This refers to <strong>Prototherians</strong> (subclass Prototheria), which includes the Monotremes (Platypus and Echidna). They are the only mammals that lay eggs.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Primates first evolved from a small group of arboreal mammals called _______.",
+      "type": "OBJ",
+      "options": [
+        "Homo sapiens",
+        "Archonta",
+        "Archontasis",
+        "Homo erectus"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archonta"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primate Origins</h4>\n  <p>The solution key indicates the answer is <strong>B (Archonta)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Classification</strong><br>\n    Archonta is a superorder that traditionally groups Primates with Bats (Chiroptera), Colugos (Dermoptera), and Tree Shrews (Scandentia), suggesting a common arboreal ancestor.\n  </div>\n</div>"
+    }
+  }
+]
