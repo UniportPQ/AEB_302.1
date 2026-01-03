@@ -1,0 +1,451 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Protochordates and chordates",
+    "code": "AEB 302.1",
+    "session": "2010/2011",
+    "topics": ["Mammals", "General Characteristics", "Anatomy", "Birds", "Comparative Anatomy", "Adaptation", "Flight", "Locomotion", "Feeding", "Primates", "Evolution", "Reproduction"],
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions !"
+  },
+  {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  {
+    "type": "heading",
+    "heading": "Question 1"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a)i",
+    "topic": [
+      "Mammals",
+      "General Characteristics",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "List five distinctive characteristics of the class Mammalia",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Five distinctive characteristics of mammals are:<br>1. <b>Hair:</b> Presence of hair forming an insulating layer in most groups.<br>2. <b>Teeth:</b> Teeth are heterodont (different shapes/functions) and diphyodont (limited replacement).<br>3. <b>Ear Bones:</b> Presence of three auditory ossicles (malleus, incus, stapes) in the middle ear and a spiral cochlea in the inner ear.<br>4. <b>Brain:</b> The cerebrum is large and possesses a gray cortex.<br>5. <b>Vertebrae:</b> The trunk vertebrae are differentiated into thoracic (rib-bearing) and lumbar (lower back) vertebrae."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Mammalian Features</h4>\n  <p>Mammals are highly advanced vertebrates. Here is a breakdown of their defining traits:</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Heterodont Dentition</strong><br>\n    Unlike reptiles, whose teeth usually look the same (homodont), mammals have specialized teeth: incisors for cutting, canines for tearing, and molars for grinding.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Auditory Ossicles</strong><br>\n    Mammals have a unique hearing advantage due to three tiny bones in the middle ear that amplify sound. Reptiles only have one (the stapes).\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Spinal Differentiation</strong><br>\n    The mammalian spine is specialized. The <em>thoracic</em> region supports ribs for breathing/protection, while the <em>lumbar</em> region allows for flexibility in movement.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a)ii",
+    "topic": [
+      "Mammals",
+      "Birds",
+      "Comparative Anatomy"
+    ],
+    "Question": {
+      "content": "How does the class mammalian differ from the class Aves?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The major differences include:<br>1. <b>Body Covering:</b> Mammals have hair/fur, whereas Aves (birds) have feathers.<br>2. <b>Teeth:</b> Mammals have heterodont teeth; Birds lack teeth entirely (edentulous) and have a keratinous beak.<br>3. <b>Bones:</b> Mammalian bones are generally solid or marrow-filled; Bird bones are pneumatic (hollow/air-filled) to reduce weight.<br>4. <b>Reproduction:</b> Most mammals are viviparous (give birth to live young); All birds are oviparous (lay eggs).<br>5. <b>Red Blood Cells:</b> Mammalian RBCs are non-nucleated (no nucleus); Avian RBCs are nucleated."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mammals vs. Birds</h4>\n  <table style='width: 100%; border-collapse: collapse; font-size: 0.9em;'>\n    <tr style='background: var(--strongColor); color: var(--white);'>\n      <th style='padding: 8px; border: 1px solid var(--whiteTransBorder);'>Feature</th>\n      <th style='padding: 8px; border: 1px solid var(--whiteTransBorder);'>Class Mammalia</th>\n      <th style='padding: 8px; border: 1px solid var(--whiteTransBorder);'>Class Aves (Birds)</th>\n    </tr>\n    <tr>\n      <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Insulation</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Hair / Fur</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Feathers</td>\n    </tr>\n    <tr>\n      <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Mouth</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Jaws with specialized teeth</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Toothless beak</td>\n    </tr>\n    <tr>\n      <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Skeleton</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Heavier, marrow-filled</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Lightweight, pneumatic (hollow)</td>\n    </tr>\n     <tr>\n      <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Birth</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Mostly Viviparous (Live young)</td>\n      <td style='padding: 8px; border: 1px solid var(--strongColor);'>Strictly Oviparous (Eggs)</td>\n    </tr>\n  </table>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Flight"
+    ],
+    "Question": {
+      "content": "Briefly discuss bird adaptation to their mode of life (Flight adaptations)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Birds have several structural adaptations for flight:<br>1. <b>Feathers:</b> These epidermal outgrowths form an insulating layer and create the necessary flying surfaces on wings and tails. They are light and made of keratin.<br>2. <b>Skeleton:</b> Bones are hollow (pneumatic) and remarkably thin to reduce weight. Strength is maintained because bone substance is concentrated at the periphery.<br>3. <b>Skull:</b> The skull is light with a toothless beak. Large orbits accommodate developed eyes for visual acuity during flight. The neck is long and mobile.<br>4. <b>Muscles:</b> Specialized flight muscles attached to the sternum (keel). The <i>pectoralis</i> powers the downstroke, while the <i>supracoracoideus</i> powers the upstroke using a pulley-like tendon."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Engineered for Flight</h4>\n  <p>Every part of a bird's body is adapted to overcome gravity:</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Weight Reduction</strong><br>\n    Birds shed heavy parts. They lost heavy jawbones and teeth (replaced by a light beak) and solid bones (replaced by hollow, air-filled struts).\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Power & Lift</strong><br>\n    Feathers provide a lightweight surface area to push against the air. The massive chest muscles (pectoralis) act as the engine, providing the thrust needed to stay airborne.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Question 2"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(I)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Cursorial feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bustards, Cassowary, Ostrich"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cursorial Means Running</h4>\n  <p><strong>Cursorial birds</strong> are those adapted for running on land. </p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why these birds?</strong><br>\n    Birds like the <strong>Ostrich</strong> and <strong>Cassowary</strong> have powerful, long legs and often fewer toes (to reduce friction) which makes them excellent runners. They typically cannot fly.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(II)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Perching feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sparrows, Crows, bulbuls"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Branch Grippers</h4>\n  <p>These feet are designed to automatically lock onto branches so birds can sleep without falling.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Structure</strong><br>\n    They have three toes facing forward and one facing backward (anisodactyl). There is no webbing between them. This is typical of songbirds like sparrows and crows.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(III)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Feeding"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Scratching feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fowls, quails, pheasants"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Earth Rakers</h4>\n  <p>Think of a chicken scratching the dirt to find bugs.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Adaptation</strong><br>\n    These birds have strong feet with sharp nails specifically designed for <strong>scratching</strong> the earth to uncover food.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(IV)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Feeding"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Raptorial feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eagles, kites, vultures, owls"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Hunters</h4>\n  <p>Raptors are birds of prey that use their feet as lethal weapons.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Feature: Talons</strong><br>\n    Their toes are deeply cleft (widely separated) and armed with large, strong, sharply curved nails called <strong>talons</strong> to grasp and pierce prey.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(V)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Wading feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Herons, Jacana"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Walking on Mud</h4>\n  <p>These birds live in marshes and shallow water.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Adaptation</strong><br>\n    They have long, thin legs to keep their bodies above water and long, agile toes that spread their weight. This helps them balance in wet, muddy areas without sinking.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(VI)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Swimming feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ducks, pelican, cormorant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Built-in Paddles</h4>\n  <p>Waterfowl need propulsion in water.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Adaptation</strong><br>\n    Their feet are <strong>webbed</strong>, meaning skin connects the toes. This turns the foot into a paddle for efficient swimming.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(VII)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Climbing feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parrots and wood peckers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vertical Climbers</h4>\n  <p>These birds need to walk up and down tree trunks.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Zygodactyl Arrangement</strong><br>\n    They have two toes pointing forward and two pointing backward. Combined with sharp, curved claws, this allows them to firmly clutch the bark of trees.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2(VIII)",
+    "topic": [
+      "Birds",
+      "Adaptation",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Which group of birds possesses Clinging feet?",
+      "type": "OBJ",
+      "options": [
+        "Swifts and humming-birds",
+        "Sparrows, Crows, bulbuls",
+        "Fowls, quails, pheasants",
+        "Bustards, Cassowary, Ostrich",
+        "Herons, Jacana",
+        "Ducks, pelican, cormorant",
+        "Parrots and wood peckers",
+        "Eagles, kites, vultures, owls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Swifts and humming-birds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hanging On</h4>\n  <p>These birds spend almost all their time in the air and have tiny feet suited only for hanging, not walking.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Adaptation</strong><br>\n    They have sharp claws, and the fourth toe can turn backward to join the first. This creates a foot ideally suited for <strong>clinging</strong> onto vertical surfaces like cliffs or walls.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Question 3"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "List the three (3) main distinguishing evolutionary trends in primates",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The three main trends are:<br>1. Teeth shape and dental arrangements.<br>2. Gestation time and parental care.<br>3. Relative size of the cerebral cortex."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primate Evolution</h4>\n  <p>Primates evolved from small, insect-eating ancestors. These three trends reflect their shift towards complex social lives, varied diets, and higher intelligence.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)i",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "List two evolutionary trends in primates regarding teeth and dental arrangements",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. A gradual reduction in the number of teeth compared with earlier mammals.<br>2. Molar teeth became square, each with four low crowned cusps."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dietary Adaptation</h4>\n  <p>Early mammals had many sharp teeth for insects. Primates developed fewer, flatter molars (bunodont) suitable for grinding fruits and leaves, reflecting an omnivorous diet.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)ii",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Reproduction"
+    ],
+    "Question": {
+      "content": "List two evolutionary trends in primates regarding gestation time and parental care",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Primates have fewer young to care for, sometimes only a single offspring per birth.<br>2. The young stay with the parents for a longer period of time."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Quality over Quantity</h4>\n  <p>Primates invest heavily in a few offspring (K-selection). Long childhoods allow babies to learn complex behaviors and social skills from their parents.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)iii",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "List two evolutionary trends in primates regarding relative size of cerebral cortex",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. The primitive brain has increased in size especially in the cerebral hemispheres.<br>2. The higher primates (humans and apes) have a more highly convoluted or folded cerebral cortex."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Brain Power</h4>\n  <p>The explosion in brain size, particularly the cortex, supports memory, problem-solving, and hand-eye coordination. Folds (convolutions) allow more brain surface area to fit inside the skull.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3c",
+    "topic": [
+      "Mammals",
+      "Primates",
+      "Adaptation"
+    ],
+    "Question": {
+      "content": "Write briefly on primate adaptation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Primates are largely adapted to an <b>arboreal (tree-living) life</b>. Key adaptations include:<br>- <b>Hands/Feet:</b> Claws transformed into flat nails, and grasping hands/feet evolved for holding branches.<br>- <b>Coordination:</b> Muscular coordination is highly developed, supported by a well-developed cerebellum for agility.<br>- <b>Vision:</b> Evolution of stereoscopic vision (depth perception) to judge distances when jumping.<br>- <b>Brain:</b> An influx of new sensory information from handling objects led to extraordinary development of the cerebral hemispheres."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Life in the Trees</h4>\n  <p>Even terrestrial primates like humans and baboons show signs of their tree-dwelling ancestors. The ability to grasp (opposable thumbs), see in 3D (forward-facing eyes), and process complex sensory data are all legacies of life in the canopy.</p>\n</div>"
+    }
+  }
+]
+
