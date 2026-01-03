@@ -1,0 +1,509 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Protochordates and chordates",
+    "code": "AEB 302.1",
+    "session": "2008/2009",
+    "topics":[
+  "Phylum Chordata",
+  "Vertebrates",
+  "Fishes",
+  "Biodiversity",
+  "Adaptation",
+  "Amphibians",
+  "Reptiles",
+  "Comparative Anatomy",
+  "Reproduction",
+  "Evolution",
+  "Paleontology",
+  "Dinosaurs",
+  "Aves (Birds)",
+  "General Characteristics",
+  "Feathers",
+  "Taxonomy",
+  "Definitions",
+  "Mammals",
+  "Thermoregulation",
+  "Metabolism",
+  "Locomotion"
+],
+    
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+  {
+    "type": "heading",
+    "heading": "Question 1"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Phylum Chordata"
+    ],
+    "Question": {
+      "content": "To what phylum do the chordates belong?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chordates belong to the phylum <b>Chordata</b>."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phylum Classification</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding Taxonomy</strong><br>\n    In biology, we classify animals into groups called 'Phyla' (singular: Phylum). The question asks for the specific group name for chordates.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Answer</strong><br>\n    The name 'Chordate' actually comes directly from the phylum name itself: <strong>Chordata</strong>. This group includes animals that possess a notochord at some stage in their development.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> Humans, fish, birds, and dogs are all members of Phylum Chordata.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Phylum Chordata"
+    ],
+    "Question": {
+      "content": "List the three distinguishing characteristics of the chordates",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The three distinguishing characteristics are:<br>1. A dorsal hollow nerve cord.<br>2. A dorsal longitudinal skeletal rod (the notochord).<br>3. Paired lateral openings (pharyngeal gill slits)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primary Characteristics of Chordates</h4>\n  <p>For an animal to be a chordate, it must have these three features at some point in its life (even if just as an embryo):</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Dorsal Hollow Nerve Cord</strong><br>\n    This arises as an unfolding of the surface ectoderm. In humans, this develops into the spinal cord and brain. Note the position: <em>Dorsal</em> means it's on the back, not the belly.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Notochord</strong><br>\n    This is a stiff but flexible rod located <em>beneath</em> the nerve cord. It provides structural support. In most vertebrates, this is replaced by the backbone (vertebrae) as they grow.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Pharyngeal Gill Slits</strong><br>\n    These are paired openings in the wall of the gut (pharynx). In fish, these become actual gills for breathing. In humans, they appear in the embryo but disappear before birth.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1c",
+    "topic": [
+      "Phylum Chordata"
+    ],
+    "Question": {
+      "content": "Are all chordates vertebrates? If not, name the groups that are not.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No, not all chordates are vertebrates.<br>The groups that are not vertebrates are:<br>1. Subphylum Urochordata<br>2. Subphylum Cephalochordata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chordates vs. Vertebrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Relationship</strong><br>\n    Think of \"Chordates\" as a big family. \"Vertebrates\" (animals with backbones) are just the most famous children in that family. However, there are other children who <em>don't</em> have a backbone but still belong to the family.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Non-Vertebrate Groups</strong><br>\n    These are often called \"Invertebrate Chordates\":\n    <ul>\n      <li><strong>Urochordata:</strong> Also known as Tunicates or Sea Squirts.</li>\n      <li><strong>Cephalochordata:</strong> Also known as Lancelets (e.g., Amphioxus).</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Summary:</strong> All vertebrates are chordates, but not all chordates are vertebrates.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1d",
+    "topic": [
+      "Phylum Chordata"
+    ],
+    "Question": {
+      "content": "Differentiate between the Urochordates and the Cephalochordates",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The main differences are in their excretory organs, fertilization methods, heart structure, and feeding mechanisms (see explanation for details)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Comparison: Urochordates vs. Cephalochordates</h4>\n  \n  <table style='width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 0.9em;'>\n    <thead>\n      <tr style='background: var(--strongColor); color: var(--white);'>\n        <th style='padding: 8px; text-align: left; border: 1px solid var(--whiteTransBorder);'>Feature</th>\n        <th style='padding: 8px; text-align: left; border: 1px solid var(--whiteTransBorder);'>Urochordates</th>\n        <th style='padding: 8px; text-align: left; border: 1px solid var(--whiteTransBorder);'>Cephalochordates</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Excretion</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>No special organs. Nitrogenous waste escapes by diffusion or accumulates as uric acid crystals.</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>Have segmentally arranged ciliated protonephridia that open into the atrium.</td>\n      </tr>\n      <tr>\n        <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Fertilization</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>May be external with planktonic development, or internal within the atrium (brooded).</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>Fertilization and development are purely external.</td>\n      </tr>\n      <tr>\n        <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Heart</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>Located near the stomach. Unusual feature: it periodically reverses its beat direction.</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>No muscular heart is present. Blood is moved by contraction of arteries.</td>\n      </tr>\n       <tr>\n        <td style='padding: 8px; border: 1px solid var(--strongColor); font-weight: bold;'>Feeding</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>Pharynx highly developed for filter feeding.</td>\n        <td style='padding: 8px; border: 1px solid var(--strongColor);'>Jawless suspension feeders. Mouth surrounded by an oral hood with projections called Cirri.</td>\n      </tr>\n    </tbody>\n  </table>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1e",
+    "topic": [
+      "Phylum Chordata"
+    ],
+    "Question": {
+      "content": "List the eight classes of the phylum vertebrate and give two examples of each class",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The eight classes and examples are:<br>1. Agnatha (Lamprey, eels)<br>2. Placodermi (Dunkleosteus, spiny sharks)<br>3. Chondrichthyes (Sharks, rays)<br>4. Osteichthyes (Lung fishes, perch)<br>5. Amphibia (Frogs, toads)<br>6. Reptilia (Alligators, snakes)<br>7. Aves (Ducks, songbirds)<br>8. Mammalia (Apes, humans)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classes of Vertebrates</h4>\n  <p>Vertebrates are diverse, ranging from primitive jawless fish to complex mammals. Here is the breakdown:</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fishes (Classes 1-4)</strong><br>\n    <ul>\n        <li><strong>Agnatha:</strong> Jawless fish (e.g., Lamprey).</li>\n        <li><strong>Placodermi:</strong> Armored prehistoric fish (Extinct, e.g., Dunkleosteus).</li>\n        <li><strong>Chondrichthyes:</strong> Cartilaginous fish—skeletons made of cartilage, not bone (e.g., Sharks).</li>\n        <li><strong>Osteichthyes:</strong> Bony fish—the fish we usually eat (e.g., Perch).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Tetrapods (Classes 5-8)</strong><br>\n    <ul>\n        <li><strong>Amphibia:</strong> Live on land and water (e.g., Frogs).</li>\n        <li><strong>Reptilia:</strong> Scaly skin, lay eggs on land (e.g., Snakes).</li>\n        <li><strong>Aves:</strong> Birds, characterized by feathers (e.g., Ducks).</li>\n        <li><strong>Mammalia:</strong> Have hair and produce milk (e.g., Humans).</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Question 2"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Vertebrates",
+      "Fishes",
+      "Biodiversity"
+    ],
+    "Question": {
+      "content": "List eight characteristics of fish",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The eight characteristics of fish are:<br>1. They are exothermic vertebrates.<br>2. Their integument (skin) contains many simple mucous glands and usually bony scales.<br>3. Their cerebrum is small and primarily an olfactory centre, while the optic lobes are the primary integrating centre.<br>4. Most males lack a circulatory organ, and fertilization is external.<br>5. Most species are oviparous and pass through an aquatic larval stage.<br>6. Large ovaries produce great numbers of yolk-laden eggs.<br>7. Nitrogenous wastes (ammonia and urea) are eliminated through the gills and by an opisthonephric kidney.<br>8. The heart receives only venous blood, and the atrium and ventricle are not divided."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Fish Characteristics</h4>\n  <p>Here is a breakdown of the complex biological terms used in the answer:</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Body Temperature (Exothermic)</strong><br>\n    Fishes are <em>exothermic</em> (often called cold-blooded). This means they cannot produce their own body heat; their temperature changes with the surrounding water.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Skin Structure (Integument)</strong><br>\n    Their skin isn't dry like ours. It has <strong>mucous glands</strong> that produce slime to help them swim smoothly and prevent infections, and it is covered in hard <strong>bony scales</strong> for protection.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Brain Functions</strong><br>\n    The fish brain prioritizes smell! The <em>cerebrum</em> is mainly for smelling (olfactory), while the <em>optic lobes</em> handle the processing of information (integrating centre).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Reproduction (Oviparous)</strong><br>\n    Most fish are <em>oviparous</em>, meaning they lay eggs rather than giving birth to live young. They produce huge numbers of eggs full of nutrients (yolk-laden) because many will not survive to adulthood. Fertilization usually happens in the water (external), not inside the body.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>5. The Heart</strong><br>\n    Fish have a simple heart compared to humans. It only pumps <strong>venous blood</strong> (blood without oxygen) to the gills to get fresh oxygen. The heart chambers (atrium and ventricle) are not divided like ours.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Vertebrates",
+      "Fishes",
+      "Adaptation"
+    ],
+    "Question": {
+      "content": "What features adapt fishes for life in water?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The features that adapt fishes for life in water are:<br>1. Gills.<br>2. Streamlined body shape.<br>3. Swim bladder.<br>4. Presence of mucous glands.<br>5. Presence of pectoral fins.<br>6. Presence of heterocercal tail."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Fish Survive Underwater</h4>\n  <p>Living in water requires special tools. Here is how each feature helps:</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Gills (Breathing)</strong><br>\n    Just as we use lungs to take oxygen from air, fish use gills to take oxygen from water. Water enters the mouth, passes over the gills where gas exchange happens via diffusion, and exits through gill pouches.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Streamlined Body (Movement)</strong><br>\n    Water is dense and hard to move through. Fish have a <em>fusiform</em> or streamlined shape (tapered at both ends like a bullet) which allows them to cut through water with minimum effort.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Swim Bladder (Buoyancy)</strong><br>\n    This is an internal gas-filled sac found in advanced fishes. It acts like a built-in life jacket, giving the fish a density equal to the water so they don't sink. This saves energy because they don't have to constantly swim just to stay up.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Mucous Glands (Protection)</strong><br>\n    The slime on a fish isn't just gross—it's vital! It protects the body from parasites and controls the exchange of water (osmosis) between the fish and its environment.\n  </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 3"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a",
+    "topic": [
+      "Vertebrates",
+      "Amphibians",
+      "Reptiles",
+      "Comparative Anatomy"
+    ],
+    "Question": {
+      "content": "What five features distinguish amphibians from reptiles?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The five distinguishing features are:<br>1. <b>Copulatory Organs:</b> Male amphibians lack copulatory organs (external fertilization), whereas male reptiles have them (internal fertilization).<br>2. <b>Excretion:</b> Amphibians eliminate nitrogen mostly as urea via opisthonephric kidneys, while reptiles eliminate it as urea and uric acid via metanephric kidneys.<br>3. <b>Body Temperature:</b> Amphibians are ectothermic, whereas some reptiles are ectothermic and others are heliothermic.<br>4. <b>Eggs:</b> Amphibians produce many yolk-laden eggs in large ovaries, while reptiles produce fewer eggs in their large ovaries.<br>5. <b>Eyes:</b> Amphibians use moveable eyelids and tear glands to protect/cleanse the eye, whereas reptiles use a nictitating membrane."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Amphibians vs. Reptiles: Key Differences</h4>\n  <p>Amphibians (like frogs) are a \"transitional\" group bridging water and land. Reptiles (like lizards) are fully adapted to land. Here is how they differ:</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Reproduction (Copulatory Organs)</strong><br>\n    Amphibians typically reproduce in water; the female lays eggs and the male sprays sperm over them (external fertilization), so they don't need a special organ for mating. Reptiles reproduce on land, so the male needs a copulatory organ to place sperm <em>inside</em> the female (internal fertilization).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Waste Disposal (Kidneys)</strong><br>\n    Reptiles need to save water. They have advanced <strong>metanephric kidneys</strong> that can produce thick, paste-like waste (uric acid). Amphibians have simpler <strong>opisthonephric kidneys</strong> and excrete urea, which requires more water to flush out.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Managing Heat (Thermoregulation)</strong><br>\n    Both rely on the environment for heat (ectothermic). However, reptiles are better at \"basking\" in the sun to warm up—a behavior called <strong>heliothermy</strong> (sun-heating). Amphibians lose water through their skin, so they can't sit in the sun as easily.\n  </div>\n   <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Eye Protection</strong><br>\n    On land, eyes dry out. Amphibians developed eyelids and tear glands. Reptiles often use a <strong>nictitating membrane</strong>—a transparent \"third eyelid\" that sweeps across the eye to clean and protect it without blocking vision.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)i",
+    "topic": [
+      "Vertebrates",
+      "Reproduction",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Write a short note on the Cleidoic egg",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The cleidoic egg has sufficient yolk and develops important extra-embryonic membranes. This allows development to proceed directly to a miniature adult before hatching, rather than requiring a larval stage."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cleidoic Egg: Life in a Capsule</h4>\n  <p>The term \"Cleidoic\" comes from the Greek word for \"closed\" or \"locked\".</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why is it important?</strong><br>\n    Before this egg evolved, animals (like fish and amphibians) had to lay their jelly-like eggs in water, or they would dry out and die. The Cleidoic egg changed everything.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How it works</strong><br>\n    It is like a self-contained spaceship for the baby animal. It has:\n    <ul>\n      <li><strong>Shell:</strong> Protection against drying out.</li>\n      <li><strong>Yolk:</strong> A large food supply (sufficient yolk).</li>\n      <li><strong>Membranes:</strong> Special sacs to handle waste and breathing (extra-embryonic membranes).</li>\n    </ul>\n    Because of this system, the baby can grow into a fully formed \"miniature adult\" inside the shell, skipping the vulnerable aquatic larva (tadpole) stage entirely.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)ii",
+    "topic": [
+      "Vertebrates",
+      "Evolution",
+      "Paleontology"
+    ],
+    "Question": {
+      "content": "Write a short note on Marine blind alleys",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marine blind alleys refer to marine reptiles that flourished during the Mesozoic era but became extinct near its close. Their extinction coincided with the evolution and increase of teleosts (modern bony fish).<br><br>Examples include:<br>1. <b>Plesiosaurs</b> (Order Sauropterygia): Superficially turtle-shaped (lacking a shell) with squat heavy bodies and long necks.<br>2. <b>Ichthyosaurs</b> (Order Ichthyosauria): Porpoise-like in size, shape, and probably habits."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evolutionary \"Blind Alleys\"</h4>\n  <p>In evolution, a \"blind alley\" is a path that leads to a dead end—extinction. These were reptiles that went back to living in the sea.</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Rise and Fall</strong><br>\n    During the age of dinosaurs (Mesozoic), these reptiles ruled the oceans. They competed with primitive fish. However, they mysteriously died out around the same time that modern fish (teleosts) started becoming successful. We aren't 100% sure why, but the rise of better fish competitors might be a reason.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Key Players</strong><br>\n     <strong>Plesiosaurs:</strong> Imagine a turtle without a shell, but with a very long neck. They were slow, heavy swimmers.<br>\n     <strong>Ichthyosaurs:</strong> They looked remarkably like modern dolphins or porpoises. This is a great example of convergent evolution—different animals developing similar shapes to solve the same problem (swimming fast).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b)iii",
+    "topic": [
+      "Vertebrates",
+      "Dinosaurs",
+      "Paleontology"
+    ],
+    "Question": {
+      "content": "Write a short note on Dinosaurs",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "This note focuses on dinosaurs of the order <b>Ornithischia</b>. They were all herbivores living in swamps or uplands. These animals formed the diet of carnivores like <i>Tyrannosaurus</i>.<br><br>To survive, many evolved protective devices such as:<br>- Spiked tails<br>- Bony plates on the body<br>- Horned skulls.<br><br>Examples include <i>Stegosaurus</i> and <i>Triceratops</i>."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Plant-Eating Tanks: Ornithischia</h4>\n  <p>Dinosaurs are split into two main hip-shapes. This question describes the \"Ornithischia\" or \"bird-hipped\" dinosaurs.</p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Lifestyle</strong><br>\n    These were peaceful plant-eaters (herbivores). Some grazed in wet swamps, others on dry uplands. But their world was dangerous because of giant predators like <em>Tyrannosaurus rex</em>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Defense Mechanisms</strong><br>\n    Since they didn't hunt, they needed armor to stop from being eaten. They became like living tanks:\n    <ul>\n      <li><strong>Stegosaurus:</strong> Famous for the bony plates along its back and a spiked tail (Thagomizer) to swing at attackers.</li>\n      <li><strong>Triceratops:</strong> Had a massive horned skull and a frill to protect its neck.</li>\n    </ul>\n     These adaptations were crucial for survival against the sharp teeth of carnivores.\n  </div>\n</div>"
+    }
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Vertebrates",
+      "Aves (Birds)",
+      "Adaptation"
+    ],
+    "Question": {
+      "content": "State and explain four structural adaptive features of birds",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The four structural adaptive features are:<br><br>1. <b>Feathers:</b> Epidermal outgrowths containing large amounts of keratin. They form an insulating layer for warmth and create flying surfaces on the tail and wings.<br>2. <b>Skeleton:</b> Remarkably thin, hollow (pneumatic), and light-weight bones. Strong support is provided by bone substance located at the periphery.<br>3. <b>Skull:</b> Features a large cranial region and large orbits (eye sockets). It has a toothless beak to reduce weight, and a very mobile neck due to the articulation of cervical vertebrae.<br>4. <b>Muscles:</b> The <i>pectoralis</i> muscle powers the downstroke, while the <i>supracoracoideus</i> powers the upstroke using a unique pulley-like tendon arrangement."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Built for Flight: Bird Adaptations</h4>\n  <p>Birds are biological machines engineered for one main purpose: overcoming gravity. </p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Lightness (Skeleton & Skull)</strong><br>\n    To fly, you must be light. Birds have hollow bones (pneumatic) filled with air sacs rather than heavy marrow. They also ditched heavy teeth in favor of a light beak. The weight is concentrated at the edge of the bones (periphery) for strength without bulk.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Lift & Warmth (Feathers)</strong><br>\n    Feathers are made of keratin (like your fingernails). They serve a dual purpose: locking in body heat (insulation) so the bird's muscles work efficiently in cold air, and shaping the wing into an airfoil to generate lift.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Power (Muscles)</strong><br>\n    Flight requires immense chest strength. The <em>pectoralis</em> is the massive chest muscle you see on a cooked chicken—it pulls the wing down to push air. The <em>supracoracoideus</em> is a clever \"pulley\" muscle that pulls the wing back up for the next stroke.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Vertebrates",
+      "Aves (Birds)",
+      "General Characteristics"
+    ],
+    "Question": {
+      "content": "Mention ten general characteristics of birds",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The characteristics are:<br>1. They are endothermic (warm-blooded) vertebrates.<br>2. They are oviparous (lay eggs), and parents incubate the eggs.<br>3. Horny scales are present on the feet, while feathers cover the rest of the body.<br>4. Nitrogenous waste is eliminated as uric acid by metanephric kidneys.<br>5. The heart has 4 chambers with completely divided atria and ventricles; the reptilian left systemic arch is lost.<br>6. Bones are exceptionally light and frequently pneumatic (air-filled).<br>7. The brain has a large cerebellum and enlarged corpus striatum.<br>8. Teeth are absent; jaws form a horn-covered beak.<br>9. Sense of smell is poor, but vision (optic lobes) is highly developed.<br>10. One ovary and oviduct are usually lost (to reduce weight); eggs are large and yolk-laden."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Biological Features of Birds</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Metabolism & Heart</strong><br>\n    Birds are <strong>endothermic</strong>, meaning they generate their own heat (unlike reptiles). To support this high energy lifestyle, they have a highly efficient <strong>4-chambered heart</strong> that keeps oxygen-rich blood separate from oxygen-poor blood.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Excretion (The White Paste)</strong><br>\n    Birds don't pee liquid urine because water is heavy. Instead, their <strong>metanephric kidneys</strong> convert waste into a semi-solid white paste called <strong>uric acid</strong>. This conserves water and keeps them light for flight.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sensory Focus</strong><br>\n    Flying requires amazing hand-eye coordination (or wing-eye coordination!). Therefore, the visual centers of the brain are huge, while the sense of smell is reduced in most species.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1c",
+    "topic": [
+      "Vertebrates",
+      "Aves (Birds)",
+      "Feathers"
+    ],
+    "Question": {
+      "content": "Mention six types of feathers, their location and functions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The six types of feathers are:<br><br>1. <b>Contour Feathers</b><br>Location: Outermost body.<br>Function: Provide colour/shape, shed rain (insulation), and support the bird during flight.<br><br>2. <b>Filoplumes</b><br>Location: Under the contour feathers.<br>Function: Provide feedback on contour feather activity.<br><br>3. <b>Down Feathers</b><br>Location: Found on hatchlings (natal downs).<br>Function: Give baby chicks their fluffy appearance and provide insulation.<br><br>4. <b>Semiplumes</b><br>Location: Between other feathers.<br>Function: Provide an additional layer of warmth and maintain the streamlined shape.<br><br>5. <b>After feather</b><br>Location: Lower shaft of some contour feathers.<br>Function: Provide an extra layer of warmth.<br><br>6. <b>Rectrices</b> (labeled as 'Pectrices' in source)<br>Location: Tail of birds.<br>Function: Provide stability and control during flight."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Feather Types</h4>\n  <p>Feathers are specialized for different jobs. </p>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Outer Layer (Protection & Flight)</strong><br>\n    <strong>Contour feathers</strong> are the ones you see on the outside. They act like a raincoat and a windbreaker. The <strong>Rectrices</strong> (tail feathers) act like a rudder on a boat, helping the bird steer and brake.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Inner Layer (Warmth)</strong><br>\n    <strong>Down feathers</strong> and <strong>Semiplumes</strong> are fluffy and trap air close to the skin. This keeps the bird warm, just like a down jacket keeps you warm in winter.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sensors</strong><br>\n    <strong>Filoplumes</strong> are like whiskers. They don't help with flying directly, but they feel air currents and tell the bird if its other feathers are out of place.\n  </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 2"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Vertebrates",
+      "Aves (Birds)",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "Classify a pigeon bird from phylum to species level",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<b>Phylum:</b> Chordata<br><b>Subphylum:</b> Vertebrata<br><b>Class:</b> Aves<br><b>Order:</b> Columbiformes<br><b>Family:</b> Columbidae<br><b>Genus:</b> <i>Columba</i><br><b>Species:</b> <i>Columba livia</i> (or the rock pigeon)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Scientific Classification Explained</h4>\n  <p>Biologists use a hierarchy to name every animal. Here is the pigeon's address in nature:</p>\n  <ul>\n    <li><strong>Phylum (Chordata):</strong> It has a spinal cord.</li>\n    <li><strong>Class (Aves):</strong> It is a bird (has feathers/wings).</li>\n    <li><strong>Order (Columbiformes):</strong> The group containing doves and pigeons.</li>\n    <li><strong>Species (<i>Columba livia</i>):</strong> The specific name for the common Rock Pigeon we see in cities.</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Vertebrates",
+      "Aves (Birds)",
+      "Adaptation"
+    ],
+    "Question": {
+      "content": "Briefly describe adaptation of birds to flight",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The combination of <b>light weight</b>, <b>strength</b>, and <b>shape</b>—combined with <b>precision control</b>—is largely responsible for giving birds their special ability of sustained flight."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Recipe for Flight</h4>\n  <p>To fly, an animal needs to solve three problems: Gravity, Drag, and Stability.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Light Weight (Gravity)</strong><br>\n    Heavy things fall. Birds solve this with hollow bones and no heavy teeth.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Strength & Shape (Drag)</strong><br>\n    Air is heavy to push against. The streamlined body shape slices through the air, while massive chest muscles provide the strength to push the wings.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Precision Control</strong><br>\n    The brain and tail feathers allow the bird to steer, hover, and land safely.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c",
+    "topic": [
+      "Vertebrates",
+      "Reproduction",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define Viviparity, Oviparity and Ovoviparity",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<b>Viviparity:</b> Retention and growth of the fertilized egg within the maternal body until the young animal is a larva or newborn capable of independent existence. The growing embryo derives continuous nourishment from the mother, usually through a placenta.<br><br><b>Oviparity:</b> Expulsion of undeveloped eggs rather than live young. The eggs may be fertilized before release (as in birds and reptiles) or fertilized externally (as in amphibians).<br><br><b>Ovoviparity:</b> A method of reproduction in which the embryo develops in the maternal body but hatches only after extrusion of the egg. The embryo is not nourished by food from the mother (no placenta) but by the egg yolk."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Animals are Born</h4>\n  <p>This asks how the baby gets food and where it grows. </p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Viviparity (Live Birth)</strong><br>\n    <em>Example: Humans, Dogs.</em><br>\n    The baby grows inside the mom and gets food directly from her blood (via placenta). The baby comes out alive.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Oviparity (Egg Laying)</strong><br>\n    <em>Example: Chickens, Frogs.</em><br>\n    The mom lays an egg. The baby grows <em>outside</em> the mom's body, eating the yolk inside the shell.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Ovoviparity (The Hybrid)</strong><br>\n    <em>Example: Some Sharks, Rattlesnakes.</em><br>\n    The mom keeps the eggs inside her body for protection, but she doesn't feed the babies. They eat their own egg yolk. They hatch inside (or right as they come out), looking like live birth, but technically they were in an egg the whole time.\n  </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 3"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)i",
+    "topic": [
+      "Vertebrates",
+      "Mammals",
+      "Thermoregulation"
+    ],
+    "Question": {
+      "content": "Describe the major adaptation of mammals regarding Temperature regulation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Although mammals are endothermic, some arctic and temperate mammals (notably insectivores, bats, and rodents) adjust to winter weather by going into a period of dormancy known as <b>hibernation</b>. During this period, they lose considerable control over mechanisms regulating body temperature, and their temperature approaches the ambient (surrounding) temperature."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hibernation: Surviving the Freeze</h4>\n  <p>Mammals usually keep their body temperature high and constant (like humans at 37°C). However, keeping warm costs a lot of energy (food).</p>\n  <p>In winter, food is scarce. So, animals like bats and bears \"turn down the thermostat.\" They enter <strong>hibernation</strong>, letting their body get cold (close to the outside temperature) to save energy. It's like putting a computer into \"sleep mode\" to save battery.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)ii",
+    "topic": [
+      "Vertebrates",
+      "Mammals",
+      "Metabolism"
+    ],
+    "Question": {
+      "content": "Describe the major adaptation of mammals regarding the Metabolic system",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To sustain high metabolism, mammals must be efficient in obtaining food and oxygen.<br>1. <b>Digestion:</b> Food is mechanically broken by teeth and mixed with saliva (which contains enzymes) before swallowing, speeding up digestion.<br>2. <b>Respiration:</b> A greater exchange of oxygen is made possible by the evolution of <b>pulmonary alveoli</b> (which increase lung surface area) and a <b>diaphragm</b> (which increases ventilation efficiency)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fueling the Engine</h4>\n  <p>Mammals are high-energy animals. To keep running, they need two things fast: Fuel (Food) and Air (Oxygen).</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Better Chewing (Teeth)</strong><br>\n    Reptiles often swallow food whole. Mammals have specialized teeth to grind food into a paste <em>before</em> swallowing. This helps the stomach extract energy much faster.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Better Breathing (Lungs)</strong><br>\n    Mammals have <strong>alveoli</strong> (tiny air sacs) that give lungs a huge surface area to absorb oxygen. They also have a <strong>diaphragm</strong>, a muscle sheet that actively pumps air in and out, unlike the passive breathing of some lizards.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)iii",
+    "topic": [
+      "Vertebrates",
+      "Mammals",
+      "Locomotion"
+    ],
+    "Question": {
+      "content": "Describe the major adaptation of mammals regarding Locomotion and coordination",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mammals move with greater agility than lower tetrapods. The elbow and knee have moved in close to the trunk. The humerus and femur move back and forth closer to the <b>vertical plane</b>, unlike in amphibians and reptiles where they lie far lateral (horizontal plane). This entailed changes in the neuromuscular apparatus."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>From Sprawl to Upright</h4>\n  <p>Think of a lizard doing a push-up. Its legs stick out to the sides (lateral). This is tiring and slow.</p>\n  <p>Mammals rotated their legs to be <strong>underneath</strong> their body (vertical plane).  This acts like a pillar, supporting the weight efficiently and allowing for faster, more agile running (like a cheetah or horse).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b",
+    "topic": [
+      "Vertebrates",
+      "Mammals",
+      "General Characteristics"
+    ],
+    "Question": {
+      "content": "Mention ten general characteristics of mammals",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Mammals are endothermic vertebrates.<br>2. The heart is completely divided so that pulmonary and systemic circulations are separate.<br>3. Hair forms an insulating layer in most groups.<br>4. The cerebrum is large and has a gray cortex.<br>5. Monotremes are oviparous; other mammals are viviparous.<br>6. Nitrogenous wastes are eliminated primarily as urea by metanephric kidneys.<br>7. Teeth are heterodont (different shapes) and their replacement is limited.<br>8. Except for primitive egg-layers, ovaries are small and produce fewer eggs with little yolk.<br>9. The trunk vertebrae are differentiated into thoracic (rib) and lumbar (lower back) vertebrae.<br>10. There are three auditory ossicles in the middle ear and a spiral cochlea in the inner ear."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes a Mammal?</h4>\n  <p>Besides milk (mammary glands), mammals are defined by:</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Hair & Heat</strong><br>\n    Mammals are warm-blooded (endothermic) and use hair (fur) to trap that heat.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Specialized Teeth (Heterodont)</strong><br>\n    Instead of having all teeth look the same (like a crocodile), mammals have different tools for different jobs: Incisors for cutting, Canines for tearing, and Molars for grinding.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Superior Hearing</strong><br>\n    Mammals have a unique set of three tiny bones in the ear (auditory ossicles: hammer, anvil, stirrup) that amplify sound, and a coiled <strong>cochlea</strong> that allows for very sharp hearing.\n  </div>\n</div>"
+    }
+  }
+]
