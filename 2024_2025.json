@@ -64,13 +64,13 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Paedogenesis"
+      "content": "Neoteny"
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reproduction in Larvaceans</h4>\n  <p>The correct answer is <strong>Paedogenesis</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>A Simple Breakdown</strong><br>\n    Paedogenesis is a type of reproduction where an organism reaches sexual maturity and reproduces while still in a larval or juvenile form. It's like a tadpole being able to have baby tadpoles without ever turning into a frog. Larvaceans are a classic example of this.\n  </div>\n</div>"
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reproduction in Larvaceans</h4>\n  <p>The correct answer is <strong>Neoteny</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Concept:</strong><br>\n    In the class Larvacea, organisms reach sexual maturity and reproduce while retaining larval traits like the tail and notochord. This delay of somatic development relative to sexual maturity is known as <strong>neoteny</strong>. While 'paedogenesis' is sometimes used in broader contexts, neoteny specifically describes the evolutionary retention of juvenile features in the reproductive adult.\n  </div>\n</div>"
     }
-  },
+},
   {
     "type": "Question",
     "name": "Question 3",
